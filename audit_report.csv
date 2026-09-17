@@ -1,0 +1,10 @@
+Metric,Value
+Dataset,Superstore Data
+Original rows,1000
+Original columns,13
+Rows after cleaning,1000
+Columns after cleaning,13
+Total validation checks,26
+Checks needing review,0
+Total issue records,0
+Overall result,PASS - No data quality issues found

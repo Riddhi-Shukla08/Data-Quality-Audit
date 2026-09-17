@@ -1,0 +1,27 @@
+Rule,Issue,Count,Severity,Status
+Missing values - Product ID,Null/blank values in Product ID,0,High,PASS
+Missing values - Product Name,Null/blank values in Product Name,0,Medium,PASS
+Missing values - Category,Null/blank values in Category,0,Medium,PASS
+Missing values - Sub-Category,Null/blank values in Sub-Category,0,Medium,PASS
+Missing values - Order Date,Null/blank values in Order Date,0,High,PASS
+Missing values - Region,Null/blank values in Region,0,Medium,PASS
+Missing values - State,Null/blank values in State,0,Medium,PASS
+Missing values - City,Null/blank values in City,0,Medium,PASS
+Missing values - Segment,Null/blank values in Segment,0,Medium,PASS
+Missing values - Quantity,Null/blank values in Quantity,0,Medium,PASS
+Missing values - Discount,Null/blank values in Discount,0,Medium,PASS
+Missing values - Sales,Null/blank values in Sales,0,High,PASS
+Missing values - Profit,Null/blank values in Profit,0,Medium,PASS
+Duplicate rows,Completely duplicated records,0,High,PASS
+Duplicate Product ID,Product IDs appearing more than once,0,High,PASS
+Product ID format,Product ID does not match PROD-####,0,High,PASS
+Date validity,Invalid/unreadable Order Date,0,High,PASS
+Date range,Order Date outside expected 2025 range,0,Medium,PASS
+Quantity range,Quantity must be a positive whole number,0,High,PASS
+Discount range,Discount must be between 0 and 1,0,Medium,PASS
+Sales range,Sales must be greater than 0,0,High,PASS
+Category values,Category outside the allowed list,0,Medium,PASS
+Segment values,Segment outside the allowed list,0,Medium,PASS
+Region values,Region outside the allowed list,0,Medium,PASS
+Category/Sub-Category consistency,Sub-Category does not belong to the selected Category,0,High,PASS
+Product consistency,Same Product Name mapped to multiple Category/Sub-Category values,0,Medium,PASS

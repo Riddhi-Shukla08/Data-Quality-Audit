@@ -1,0 +1,1001 @@
+Product ID,Product Name,Category,Sub-Category,Order Date,Region,State,City,Segment,Quantity,Discount,Sales,Profit
+PROD-0001,Smartphone,Technology,Phones,2025-05-21,Central,Haryana,Delhi,Consumer,4,0.0,5696.79,1248.59
+PROD-0002,Conference Table,Furniture,Tables,2025-09-16,West,Gujarat,Delhi,Consumer,1,0.2,14096.94,1746.67
+PROD-0003,Color Copier,Technology,Copiers,2025-05-23,West,Delhi,Bengaluru,Corporate,3,0.1,5500.55,374.02
+PROD-0004,Keyboard,Technology,Accessories,2025-08-24,South,Rajasthan,Gurugram,Consumer,2,0.15,24331.93,1441.55
+PROD-0005,Smartphone,Technology,Phones,2025-12-05,Central,Haryana,Pune,Corporate,4,0.0,19360.75,5107.94
+PROD-0006,Keyboard,Technology,Accessories,2025-07-09,Central,Maharashtra,Chennai,Home Office,6,0.1,5356.25,1086.83
+PROD-0007,Dining Table,Furniture,Tables,2025-07-14,South,Uttar Pradesh,Mumbai,Consumer,5,0.2,24739.66,2076.23
+PROD-0008,Marker Set,Office Supplies,Art,2025-02-03,South,Karnataka,Jaipur,Corporate,4,0.2,22841.43,4917.16
+PROD-0009,Laser Copier,Technology,Copiers,2025-05-16,West,Haryana,Bengaluru,Consumer,3,0.2,6278.69,927.96
+PROD-0010,Desk Lamp,Furniture,Furnishings,2025-01-25,West,Delhi,Ahmedabad,Corporate,2,0.05,3948.11,930.25
+PROD-0011,Office Copier,Technology,Copiers,2025-05-09,South,Rajasthan,Noida,Corporate,1,0.0,17055.04,3759.4
+PROD-0012,File Binder,Office Supplies,Binders,2025-01-02,Central,Gujarat,Chennai,Home Office,5,0.05,24301.42,4084.45
+PROD-0013,Dining Table,Furniture,Tables,2025-03-24,South,Gujarat,Mumbai,Consumer,1,0.15,15033.77,701.16
+PROD-0014,Office Chair,Furniture,Chairs,2025-09-06,East,Tamil Nadu,Chennai,Consumer,2,0.2,24452.91,4723.49
+PROD-0015,Shipping Labels,Office Supplies,Labels,2025-08-05,West,Rajasthan,Jaipur,Home Office,4,0.05,23233.5,5037.61
+PROD-0016,Copy Paper,Office Supplies,Paper,2025-04-26,East,Uttar Pradesh,Noida,Home Office,2,0.2,8551.43,1289.42
+PROD-0017,Smartphone,Technology,Phones,2025-02-04,South,Tamil Nadu,Mumbai,Home Office,1,0.0,21511.94,3840.72
+PROD-0018,Desk Lamp,Furniture,Furnishings,2025-08-31,South,Haryana,Ahmedabad,Corporate,7,0.0,4881.69,1048.32
+PROD-0019,Business Phone,Technology,Phones,2025-12-01,Central,Karnataka,Mumbai,Consumer,2,0.1,1656.22,372.87
+PROD-0020,Laser Copier,Technology,Copiers,2025-08-05,Central,Tamil Nadu,Chennai,Consumer,3,0.05,7071.85,1804.67
+PROD-0021,Office Chair,Furniture,Chairs,2025-05-02,West,Uttar Pradesh,Ghaziabad,Corporate,3,0.15,10249.39,901.14
+PROD-0022,Wall Clock,Furniture,Furnishings,2025-08-21,West,Maharashtra,Mumbai,Corporate,5,0.2,10661.74,1837.81
+PROD-0023,Ergonomic Chair,Furniture,Chairs,2025-10-05,West,Maharashtra,Delhi,Home Office,1,0.0,18737.19,1171.74
+PROD-0024,Conference Table,Furniture,Tables,2025-11-01,East,Uttar Pradesh,Gurugram,Consumer,2,0.05,16929.03,2427.57
+PROD-0025,Shipping Labels,Office Supplies,Labels,2025-09-25,South,Karnataka,Pune,Corporate,6,0.05,23377.45,4828.84
+PROD-0026,Office Bookcase,Furniture,Bookcases,2025-06-11,Central,Delhi,Chennai,Consumer,2,0.2,381.49,91.44
+PROD-0027,Keyboard,Technology,Accessories,2025-06-28,West,Gujarat,Gurugram,Home Office,2,0.1,21999.87,2400.67
+PROD-0028,Business Phone,Technology,Phones,2025-10-11,East,Gujarat,Noida,Consumer,5,0.0,23304.14,6635.45
+PROD-0029,Printer,Technology,Machines,2025-05-20,South,Tamil Nadu,Pune,Consumer,5,0.1,15180.02,1378.49
+PROD-0030,Wall Clock,Furniture,Furnishings,2025-01-23,South,Maharashtra,Jaipur,Home Office,1,0.05,8438.88,1677.77
+PROD-0031,Office Copier,Technology,Copiers,2025-01-05,South,Maharashtra,Ahmedabad,Consumer,2,0.05,2019.81,357.66
+PROD-0032,Office Bookcase,Furniture,Bookcases,2025-01-21,South,Haryana,Gurugram,Home Office,6,0.05,5370.4,1105.75
+PROD-0033,Conference Table,Furniture,Tables,2025-04-01,West,Karnataka,Pune,Consumer,7,0.1,765.94,169.3
+PROD-0034,Cordless Phone,Technology,Phones,2025-01-20,East,Karnataka,Delhi,Home Office,8,0.15,5677.48,663.14
+PROD-0035,Wall Clock,Furniture,Furnishings,2025-05-23,West,Rajasthan,Delhi,Consumer,2,0.1,24177.19,2998.16
+PROD-0036,Document Folder,Office Supplies,Binders,2025-05-16,South,Haryana,Gurugram,Home Office,1,0.15,2843.8,329.76
+PROD-0037,Cushion,Furniture,Furnishings,2025-04-08,East,Rajasthan,Ahmedabad,Consumer,5,0.15,1253.01,53.7
+PROD-0038,USB Hub,Technology,Accessories,2025-06-10,West,Rajasthan,Ahmedabad,Home Office,2,0.1,18035.89,2869.56
+PROD-0039,Address Labels,Office Supplies,Labels,2025-04-09,East,Gujarat,Ahmedabad,Home Office,7,0.15,16673.5,3108.44
+PROD-0040,Office Bookcase,Furniture,Bookcases,2025-04-18,West,Tamil Nadu,Jaipur,Home Office,7,0.2,19676.11,3363.46
+PROD-0041,Cushion,Furniture,Furnishings,2025-03-28,East,Gujarat,Mumbai,Consumer,2,0.2,7202.09,770.89
+PROD-0042,Office Chair,Furniture,Chairs,2025-05-06,East,Haryana,Jaipur,Corporate,8,0.0,15340.16,2513.55
+PROD-0043,Computer Table,Furniture,Tables,2025-12-19,East,Maharashtra,Chennai,Corporate,1,0.0,22332.6,5462.67
+PROD-0044,Conference Table,Furniture,Tables,2025-08-22,South,Tamil Nadu,Gurugram,Home Office,3,0.2,20065.2,4767.06
+PROD-0045,Office Copier,Technology,Copiers,2025-08-17,East,Gujarat,Chennai,Corporate,3,0.15,18629.84,2573.52
+PROD-0046,Laptop,Technology,Computers,2025-08-14,South,Delhi,Ghaziabad,Consumer,2,0.05,17881.59,2003.32
+PROD-0047,Cushion,Furniture,Furnishings,2025-03-20,West,Haryana,Delhi,Consumer,4,0.15,1746.09,196.98
+PROD-0048,Drawing Paper,Office Supplies,Art,2025-12-23,Central,Rajasthan,Pune,Corporate,1,0.2,21439.79,2488.65
+PROD-0049,Shipping Labels,Office Supplies,Labels,2025-10-07,Central,Haryana,Bengaluru,Home Office,4,0.1,12282.5,1757.17
+PROD-0050,Office Copier,Technology,Copiers,2025-03-26,West,Uttar Pradesh,Noida,Home Office,8,0.2,23000.61,3377.06
+PROD-0051,File Binder,Office Supplies,Binders,2025-04-04,South,Rajasthan,Ahmedabad,Corporate,1,0.1,6614.88,612.69
+PROD-0052,Storage Box,Office Supplies,Storage,2025-08-29,South,Karnataka,Noida,Home Office,1,0.0,18763.25,5628.54
+PROD-0053,Office Chair,Furniture,Chairs,2025-04-13,Central,Karnataka,Jaipur,Home Office,1,0.05,15590.19,1207.89
+PROD-0054,Storage Box,Office Supplies,Storage,2025-11-07,Central,Uttar Pradesh,Pune,Home Office,2,0.05,19478.13,5388.06
+PROD-0055,Color Copier,Technology,Copiers,2025-04-12,South,Delhi,Gurugram,Consumer,2,0.05,14863.63,1065.75
+PROD-0056,File Labels,Office Supplies,Labels,2025-12-05,West,Tamil Nadu,Noida,Corporate,6,0.1,1863.57,89.17
+PROD-0057,Drawing Paper,Office Supplies,Art,2025-03-20,South,Tamil Nadu,Jaipur,Corporate,7,0.2,4527.0,1055.22
+PROD-0058,Scanner,Technology,Machines,2025-06-15,West,Karnataka,Jaipur,Home Office,4,0.0,20793.67,2489.67
+PROD-0059,Color Copier,Technology,Copiers,2025-01-15,South,Gujarat,Bengaluru,Corporate,8,0.05,21296.18,3477.52
+PROD-0060,USB Hub,Technology,Accessories,2025-01-06,East,Tamil Nadu,Jaipur,Corporate,4,0.15,2277.48,333.25
+PROD-0061,Dining Chair,Furniture,Chairs,2025-04-24,South,Tamil Nadu,Chennai,Home Office,7,0.1,17340.91,3370.92
+PROD-0062,Drawing Paper,Office Supplies,Art,2025-10-09,South,Karnataka,Noida,Home Office,6,0.15,8892.49,889.87
+PROD-0063,Wood Bookcase,Furniture,Bookcases,2025-10-02,South,Delhi,Mumbai,Corporate,3,0.15,4909.79,497.15
+PROD-0064,Wood Bookcase,Furniture,Bookcases,2025-06-04,Central,Gujarat,Ghaziabad,Home Office,1,0.05,17744.26,1998.87
+PROD-0065,Copy Paper,Office Supplies,Paper,2025-10-21,Central,Gujarat,Jaipur,Consumer,5,0.15,11814.51,1357.49
+PROD-0066,Wall Clock,Furniture,Furnishings,2025-02-07,Central,Karnataka,Noida,Home Office,1,0.2,3920.42,901.01
+PROD-0067,Shipping Labels,Office Supplies,Labels,2025-11-13,West,Gujarat,Gurugram,Corporate,4,0.15,19425.98,2685.34
+PROD-0068,Shipping Labels,Office Supplies,Labels,2025-01-31,South,Delhi,Ghaziabad,Consumer,2,0.05,23697.62,4646.15
+PROD-0069,Office Chair,Furniture,Chairs,2025-01-02,Central,Karnataka,Pune,Home Office,7,0.2,11345.02,1520.03
+PROD-0070,Sketch Pen,Office Supplies,Art,2025-12-18,East,Haryana,Noida,Home Office,4,0.2,23109.19,3980.25
+PROD-0071,Dining Table,Furniture,Tables,2025-03-14,South,Tamil Nadu,Noida,Corporate,2,0.1,1632.01,291.94
+PROD-0072,USB Hub,Technology,Accessories,2025-07-26,Central,Haryana,Bengaluru,Home Office,5,0.15,12586.73,1705.8
+PROD-0073,Copy Paper,Office Supplies,Paper,2025-04-28,East,Tamil Nadu,Chennai,Home Office,1,0.1,24989.37,4364.53
+PROD-0074,Storage Box,Office Supplies,Storage,2025-10-27,West,Rajasthan,Ahmedabad,Corporate,7,0.15,15924.4,3956.01
+PROD-0075,Copy Paper,Office Supplies,Paper,2025-06-18,West,Uttar Pradesh,Jaipur,Consumer,7,0.1,17387.79,3374.64
+PROD-0076,File Cabinet,Office Supplies,Storage,2025-03-01,West,Haryana,Delhi,Consumer,7,0.0,21643.03,4640.59
+PROD-0077,USB Hub,Technology,Accessories,2025-09-13,East,Gujarat,Jaipur,Home Office,8,0.05,19035.76,2111.56
+PROD-0078,Copy Paper,Office Supplies,Paper,2025-11-19,West,Delhi,Mumbai,Consumer,4,0.1,17788.1,3005.1
+PROD-0079,Printer Paper,Office Supplies,Paper,2025-03-20,South,Haryana,Jaipur,Corporate,8,0.1,23326.43,3720.48
+PROD-0080,Cushion,Furniture,Furnishings,2025-03-16,East,Delhi,Pune,Corporate,7,0.2,4886.67,692.19
+PROD-0081,File Labels,Office Supplies,Labels,2025-01-02,West,Maharashtra,Jaipur,Home Office,5,0.2,18192.37,2837.73
+PROD-0082,File Cabinet,Office Supplies,Storage,2025-10-10,East,Haryana,Mumbai,Corporate,7,0.1,11465.31,2759.25
+PROD-0083,Storage Bookcase,Furniture,Bookcases,2025-08-31,Central,Maharashtra,Chennai,Home Office,7,0.05,9744.06,1609.14
+PROD-0084,Notebook,Office Supplies,Paper,2025-02-21,East,Delhi,Jaipur,Corporate,8,0.05,531.39,76.98
+PROD-0085,Shipping Labels,Office Supplies,Labels,2025-07-23,South,Tamil Nadu,Chennai,Consumer,2,0.2,21316.37,2472.74
+PROD-0086,Smartphone,Technology,Phones,2025-11-20,Central,Delhi,Jaipur,Consumer,5,0.0,24936.03,3952.18
+PROD-0087,Keyboard,Technology,Accessories,2025-01-24,West,Maharashtra,Mumbai,Home Office,6,0.1,19934.17,2504.81
+PROD-0088,Shipping Labels,Office Supplies,Labels,2025-04-03,East,Tamil Nadu,Gurugram,Consumer,3,0.2,4500.47,963.86
+PROD-0089,Cushion,Furniture,Furnishings,2025-05-11,West,Gujarat,Chennai,Consumer,8,0.0,6494.87,1784.32
+PROD-0090,Wall Clock,Furniture,Furnishings,2025-10-28,West,Gujarat,Mumbai,Corporate,5,0.15,16027.63,3032.29
+PROD-0091,Copy Paper,Office Supplies,Paper,2025-07-15,West,Gujarat,Delhi,Home Office,6,0.1,14434.08,720.79
+PROD-0092,Business Phone,Technology,Phones,2025-09-12,South,Karnataka,Mumbai,Home Office,5,0.05,19427.16,3723.76
+PROD-0093,Document Folder,Office Supplies,Binders,2025-02-19,South,Maharashtra,Noida,Corporate,1,0.15,7826.98,388.14
+PROD-0094,Sketch Pen,Office Supplies,Art,2025-04-13,South,Maharashtra,Pune,Corporate,3,0.1,19694.84,3238.65
+PROD-0095,Storage Box,Office Supplies,Storage,2025-08-28,West,Rajasthan,Noida,Corporate,2,0.05,3647.81,918.46
+PROD-0096,Storage Bookcase,Furniture,Bookcases,2025-03-05,South,Delhi,Mumbai,Corporate,8,0.1,9309.35,1643.34
+PROD-0097,Storage Bookcase,Furniture,Bookcases,2025-04-24,South,Haryana,Noida,Consumer,2,0.15,15939.79,3757.72
+PROD-0098,Dining Chair,Furniture,Chairs,2025-09-10,West,Rajasthan,Chennai,Corporate,2,0.2,2565.22,172.21
+PROD-0099,Laptop,Technology,Computers,2025-12-02,South,Uttar Pradesh,Bengaluru,Consumer,2,0.2,20867.27,2537.94
+PROD-0100,Sketch Pen,Office Supplies,Art,2025-07-05,South,Uttar Pradesh,Ahmedabad,Corporate,2,0.1,24526.05,4108.23
+PROD-0101,Dining Chair,Furniture,Chairs,2025-02-16,Central,Rajasthan,Mumbai,Consumer,4,0.2,16096.36,3770.07
+PROD-0102,Desktop Computer,Technology,Computers,2025-10-11,East,Uttar Pradesh,Pune,Consumer,4,0.05,14721.62,1848.05
+PROD-0103,Wood Bookcase,Furniture,Bookcases,2025-02-26,East,Rajasthan,Delhi,Consumer,1,0.1,3425.31,762.98
+PROD-0104,Copy Paper,Office Supplies,Paper,2025-08-04,South,Delhi,Jaipur,Home Office,2,0.15,18679.78,2573.3
+PROD-0105,Ergonomic Chair,Furniture,Chairs,2025-12-04,West,Haryana,Ahmedabad,Home Office,5,0.0,11532.36,751.98
+PROD-0106,Cushion,Furniture,Furnishings,2025-08-16,Central,Maharashtra,Pune,Home Office,2,0.1,22496.78,4091.42
+PROD-0107,Fax Machine,Technology,Machines,2025-12-31,West,Haryana,Noida,Home Office,6,0.2,9615.47,1404.93
+PROD-0108,Dining Table,Furniture,Tables,2025-08-20,Central,Rajasthan,Ahmedabad,Corporate,4,0.15,10433.27,1327.43
+PROD-0109,Mouse,Technology,Accessories,2025-03-20,Central,Rajasthan,Ghaziabad,Home Office,8,0.0,1818.26,133.29
+PROD-0110,Storage Bookcase,Furniture,Bookcases,2025-03-04,Central,Gujarat,Gurugram,Corporate,7,0.15,8936.91,2028.41
+PROD-0111,Printer Paper,Office Supplies,Paper,2025-09-17,Central,Rajasthan,Chennai,Corporate,4,0.15,3995.04,360.16
+PROD-0112,Storage Bookcase,Furniture,Bookcases,2025-04-26,Central,Gujarat,Delhi,Consumer,7,0.2,21152.11,3441.76
+PROD-0113,File Cabinet,Office Supplies,Storage,2025-06-29,West,Delhi,Ghaziabad,Home Office,1,0.05,4657.93,847.75
+PROD-0114,Smartphone,Technology,Phones,2025-09-29,South,Gujarat,Bengaluru,Home Office,4,0.15,9498.43,1091.75
+PROD-0115,Smartphone,Technology,Phones,2025-03-21,South,Tamil Nadu,Ahmedabad,Corporate,3,0.0,18897.73,4129.01
+PROD-0116,Color Copier,Technology,Copiers,2025-05-20,Central,Gujarat,Gurugram,Corporate,4,0.0,18910.34,2577.35
+PROD-0117,Keyboard,Technology,Accessories,2025-04-23,South,Karnataka,Ghaziabad,Corporate,7,0.0,24613.47,1277.97
+PROD-0118,Storage Box,Office Supplies,Storage,2025-01-04,East,Rajasthan,Noida,Corporate,8,0.05,18713.3,1463.04
+PROD-0119,Cordless Phone,Technology,Phones,2025-01-10,West,Haryana,Pune,Consumer,8,0.1,23040.89,4021.69
+PROD-0120,Notebook,Office Supplies,Paper,2025-03-29,Central,Karnataka,Ahmedabad,Home Office,8,0.1,20825.84,1350.12
+PROD-0121,Address Labels,Office Supplies,Labels,2025-07-22,East,Delhi,Chennai,Home Office,5,0.05,18683.25,2365.37
+PROD-0122,Dining Table,Furniture,Tables,2025-06-29,East,Maharashtra,Noida,Consumer,3,0.05,6021.28,652.06
+PROD-0123,Color Copier,Technology,Copiers,2025-10-16,South,Rajasthan,Ghaziabad,Corporate,8,0.2,17076.17,2879.01
+PROD-0124,Wall Clock,Furniture,Furnishings,2025-11-20,Central,Gujarat,Jaipur,Corporate,5,0.2,19938.79,1021.55
+PROD-0125,Dining Chair,Furniture,Chairs,2025-05-27,West,Tamil Nadu,Gurugram,Home Office,2,0.0,16169.96,3294.66
+PROD-0126,Cordless Phone,Technology,Phones,2025-10-20,Central,Tamil Nadu,Noida,Corporate,4,0.15,8139.94,1213.18
+PROD-0127,Business Phone,Technology,Phones,2025-11-27,East,Rajasthan,Bengaluru,Corporate,3,0.15,1122.68,284.13
+PROD-0128,Marker Set,Office Supplies,Art,2025-12-14,Central,Haryana,Pune,Corporate,1,0.1,19762.29,1182.38
+PROD-0129,Printer,Technology,Machines,2025-06-20,South,Haryana,Ghaziabad,Home Office,2,0.05,14631.08,3880.56
+PROD-0130,Cordless Phone,Technology,Phones,2025-10-14,Central,Haryana,Chennai,Corporate,7,0.1,16140.81,3679.57
+PROD-0131,Office Bookcase,Furniture,Bookcases,2025-04-03,East,Maharashtra,Noida,Corporate,4,0.15,8642.05,719.89
+PROD-0132,Ergonomic Chair,Furniture,Chairs,2025-06-22,East,Tamil Nadu,Delhi,Corporate,3,0.05,14991.57,1289.78
+PROD-0133,File Binder,Office Supplies,Binders,2025-11-09,East,Gujarat,Jaipur,Consumer,5,0.15,18846.92,1738.17
+PROD-0134,File Labels,Office Supplies,Labels,2025-08-25,East,Karnataka,Gurugram,Consumer,5,0.2,19486.38,2835.11
+PROD-0135,Printer Paper,Office Supplies,Paper,2025-09-04,Central,Gujarat,Noida,Consumer,6,0.0,13930.34,3174.03
+PROD-0136,Drawing Paper,Office Supplies,Art,2025-03-17,South,Uttar Pradesh,Ahmedabad,Consumer,7,0.05,2429.08,586.54
+PROD-0137,File Labels,Office Supplies,Labels,2025-05-01,South,Delhi,Bengaluru,Consumer,7,0.1,24863.95,2375.03
+PROD-0138,Dining Chair,Furniture,Chairs,2025-08-30,Central,Delhi,Delhi,Corporate,3,0.15,19007.2,2619.72
+PROD-0139,Computer Table,Furniture,Tables,2025-11-08,Central,Uttar Pradesh,Mumbai,Corporate,7,0.1,2912.99,286.84
+PROD-0140,Scanner,Technology,Machines,2025-02-02,Central,Karnataka,Ghaziabad,Corporate,2,0.15,20941.69,3545.58
+PROD-0141,Printer Paper,Office Supplies,Paper,2025-06-30,Central,Rajasthan,Noida,Home Office,4,0.05,14330.99,2941.98
+PROD-0142,Fax Machine,Technology,Machines,2025-10-11,West,Rajasthan,Pune,Home Office,1,0.15,9852.78,509.89
+PROD-0143,Wood Bookcase,Furniture,Bookcases,2025-06-26,South,Maharashtra,Delhi,Corporate,4,0.0,18363.58,4460.06
+PROD-0144,USB Hub,Technology,Accessories,2025-03-31,East,Delhi,Jaipur,Consumer,8,0.15,24523.36,4334.35
+PROD-0145,Ring Binder,Office Supplies,Binders,2025-04-13,West,Gujarat,Delhi,Home Office,1,0.1,7992.56,1286.49
+PROD-0146,Office Bookcase,Furniture,Bookcases,2025-01-25,West,Tamil Nadu,Ahmedabad,Corporate,6,0.1,6939.43,994.52
+PROD-0147,Cushion,Furniture,Furnishings,2025-09-12,Central,Haryana,Noida,Corporate,6,0.2,23119.12,2158.03
+PROD-0148,Tablet,Technology,Computers,2025-05-31,South,Tamil Nadu,Gurugram,Home Office,6,0.1,2699.56,522.92
+PROD-0149,Document Folder,Office Supplies,Binders,2025-08-16,West,Gujarat,Delhi,Consumer,6,0.1,11261.17,2064.64
+PROD-0150,Color Copier,Technology,Copiers,2025-09-20,West,Uttar Pradesh,Ghaziabad,Consumer,3,0.05,23826.82,5934.28
+PROD-0151,Office Bookcase,Furniture,Bookcases,2025-07-16,South,Tamil Nadu,Noida,Home Office,1,0.15,15186.61,3707.43
+PROD-0152,Office Bookcase,Furniture,Bookcases,2025-06-10,East,Tamil Nadu,Chennai,Corporate,5,0.0,6352.85,358.8
+PROD-0153,Cordless Phone,Technology,Phones,2025-05-14,West,Karnataka,Noida,Consumer,8,0.2,5482.08,532.39
+PROD-0154,Desk Lamp,Furniture,Furnishings,2025-08-16,Central,Gujarat,Pune,Consumer,2,0.1,20291.25,3962.15
+PROD-0155,Laptop,Technology,Computers,2025-09-18,East,Tamil Nadu,Delhi,Corporate,4,0.05,3165.86,745.93
+PROD-0156,Scanner,Technology,Machines,2025-08-28,West,Tamil Nadu,Chennai,Corporate,3,0.0,15356.92,1020.27
+PROD-0157,Address Labels,Office Supplies,Labels,2025-03-06,South,Maharashtra,Chennai,Home Office,6,0.15,16112.11,2279.7
+PROD-0158,Desktop Computer,Technology,Computers,2025-08-10,East,Maharashtra,Bengaluru,Home Office,1,0.2,20810.06,1469.25
+PROD-0159,Storage Bookcase,Furniture,Bookcases,2025-05-26,South,Delhi,Chennai,Home Office,2,0.2,6377.54,605.17
+PROD-0160,Conference Table,Furniture,Tables,2025-12-04,Central,Delhi,Delhi,Home Office,6,0.2,21086.87,1017.21
+PROD-0161,USB Hub,Technology,Accessories,2025-04-18,South,Gujarat,Jaipur,Consumer,7,0.0,15509.99,2706.64
+PROD-0162,Color Copier,Technology,Copiers,2025-08-21,West,Tamil Nadu,Mumbai,Corporate,2,0.05,17262.05,2622.21
+PROD-0163,Laptop,Technology,Computers,2025-06-13,Central,Rajasthan,Mumbai,Corporate,6,0.05,24388.05,5564.33
+PROD-0164,Office Bookcase,Furniture,Bookcases,2025-05-07,West,Karnataka,Ghaziabad,Corporate,3,0.1,2555.77,658.65
+PROD-0165,Keyboard,Technology,Accessories,2025-03-23,South,Tamil Nadu,Delhi,Consumer,8,0.15,24899.84,3697.29
+PROD-0166,File Labels,Office Supplies,Labels,2025-05-04,West,Tamil Nadu,Pune,Home Office,4,0.0,14646.1,917.36
+PROD-0167,Dining Chair,Furniture,Chairs,2025-03-10,West,Uttar Pradesh,Gurugram,Home Office,5,0.15,18228.58,2192.2
+PROD-0168,Storage Bookcase,Furniture,Bookcases,2025-05-28,South,Delhi,Ghaziabad,Consumer,2,0.15,9750.77,1998.28
+PROD-0169,File Cabinet,Office Supplies,Storage,2025-10-13,West,Uttar Pradesh,Delhi,Consumer,6,0.05,18910.88,3604.13
+PROD-0170,Office Bookcase,Furniture,Bookcases,2025-09-23,South,Maharashtra,Ahmedabad,Home Office,8,0.2,3851.18,261.71
+PROD-0171,USB Hub,Technology,Accessories,2025-06-22,Central,Rajasthan,Bengaluru,Home Office,8,0.1,17762.18,2697.2
+PROD-0172,Cushion,Furniture,Furnishings,2025-06-07,East,Uttar Pradesh,Gurugram,Corporate,1,0.1,14983.2,3934.45
+PROD-0173,Desk Lamp,Furniture,Furnishings,2025-12-15,West,Rajasthan,Ahmedabad,Consumer,4,0.0,934.53,91.3
+PROD-0174,File Binder,Office Supplies,Binders,2025-09-14,East,Rajasthan,Jaipur,Home Office,8,0.0,21839.52,4945.42
+PROD-0175,Storage Box,Office Supplies,Storage,2025-08-24,East,Karnataka,Pune,Home Office,6,0.1,13724.89,2501.6
+PROD-0176,File Binder,Office Supplies,Binders,2025-05-28,South,Gujarat,Pune,Consumer,4,0.15,17302.46,1901.04
+PROD-0177,Scanner,Technology,Machines,2025-07-22,South,Delhi,Bengaluru,Corporate,6,0.05,23872.03,2780.67
+PROD-0178,USB Hub,Technology,Accessories,2025-09-03,South,Maharashtra,Noida,Home Office,4,0.2,5171.39,487.28
+PROD-0179,Printer,Technology,Machines,2025-05-05,East,Uttar Pradesh,Noida,Corporate,1,0.2,16795.37,1429.86
+PROD-0180,Sketch Pen,Office Supplies,Art,2025-12-15,East,Haryana,Jaipur,Corporate,3,0.2,278.76,65.67
+PROD-0181,Laptop,Technology,Computers,2025-06-14,East,Uttar Pradesh,Ghaziabad,Corporate,5,0.0,16200.56,3451.93
+PROD-0182,Dining Chair,Furniture,Chairs,2025-09-11,Central,Gujarat,Gurugram,Home Office,3,0.1,23424.73,5675.04
+PROD-0183,Office Bookcase,Furniture,Bookcases,2025-08-21,West,Gujarat,Mumbai,Consumer,8,0.05,22248.11,5553.72
+PROD-0184,Document Folder,Office Supplies,Binders,2025-08-23,South,Karnataka,Ghaziabad,Home Office,5,0.0,18007.16,4216.46
+PROD-0185,Color Copier,Technology,Copiers,2025-09-21,East,Tamil Nadu,Bengaluru,Consumer,6,0.0,2305.43,221.77
+PROD-0186,Office Bookcase,Furniture,Bookcases,2025-05-01,Central,Gujarat,Bengaluru,Home Office,8,0.1,18880.85,2132.36
+PROD-0187,Ergonomic Chair,Furniture,Chairs,2025-03-02,South,Delhi,Pune,Corporate,8,0.15,7774.14,1463.8
+PROD-0188,Desktop Computer,Technology,Computers,2025-03-10,West,Karnataka,Mumbai,Home Office,8,0.2,3956.66,453.93
+PROD-0189,Business Phone,Technology,Phones,2025-08-17,East,Maharashtra,Ghaziabad,Corporate,6,0.2,2090.85,130.56
+PROD-0190,Laser Copier,Technology,Copiers,2025-12-15,West,Uttar Pradesh,Jaipur,Consumer,4,0.15,17965.41,1110.71
+PROD-0191,Color Copier,Technology,Copiers,2025-10-16,West,Gujarat,Delhi,Home Office,1,0.1,14036.11,2915.83
+PROD-0192,Office Chair,Furniture,Chairs,2025-08-05,Central,Tamil Nadu,Delhi,Corporate,6,0.2,17554.56,4192.46
+PROD-0193,Ring Binder,Office Supplies,Binders,2025-11-25,West,Haryana,Noida,Home Office,7,0.15,9455.35,1303.08
+PROD-0194,Printer,Technology,Machines,2025-12-01,East,Karnataka,Delhi,Consumer,6,0.2,3098.03,367.46
+PROD-0195,Drawing Paper,Office Supplies,Art,2025-10-06,South,Maharashtra,Pune,Consumer,7,0.05,13368.55,1420.86
+PROD-0196,Smartphone,Technology,Phones,2025-12-05,Central,Delhi,Gurugram,Consumer,7,0.0,15430.84,1699.96
+PROD-0197,Shipping Labels,Office Supplies,Labels,2025-12-27,East,Karnataka,Delhi,Consumer,1,0.0,6231.64,938.28
+PROD-0198,Keyboard,Technology,Accessories,2025-10-22,East,Karnataka,Ahmedabad,Corporate,6,0.1,14500.25,1425.42
+PROD-0199,Printer Paper,Office Supplies,Paper,2025-10-30,Central,Rajasthan,Ahmedabad,Home Office,3,0.15,15705.93,2522.66
+PROD-0200,Marker Set,Office Supplies,Art,2025-03-18,East,Gujarat,Ghaziabad,Corporate,5,0.2,9505.04,1280.36
+PROD-0201,Wall Clock,Furniture,Furnishings,2025-10-13,Central,Tamil Nadu,Bengaluru,Consumer,3,0.1,9802.21,889.56
+PROD-0202,Desktop Computer,Technology,Computers,2025-05-18,Central,Karnataka,Gurugram,Home Office,7,0.2,16890.75,809.23
+PROD-0203,Printer,Technology,Machines,2025-09-03,Central,Karnataka,Mumbai,Home Office,4,0.1,21756.43,2463.2
+PROD-0204,Desk Lamp,Furniture,Furnishings,2025-12-23,South,Haryana,Jaipur,Home Office,4,0.05,10006.31,1787.32
+PROD-0205,Mouse,Technology,Accessories,2025-05-14,West,Rajasthan,Mumbai,Corporate,6,0.15,12893.49,1824.76
+PROD-0206,Sketch Pen,Office Supplies,Art,2025-10-16,West,Gujarat,Ghaziabad,Consumer,4,0.0,18570.12,2139.16
+PROD-0207,File Binder,Office Supplies,Binders,2025-10-19,West,Tamil Nadu,Jaipur,Consumer,4,0.1,12557.64,1292.16
+PROD-0208,Keyboard,Technology,Accessories,2025-03-13,Central,Uttar Pradesh,Noida,Home Office,8,0.2,4723.59,1124.52
+PROD-0209,Dining Chair,Furniture,Chairs,2025-03-12,West,Rajasthan,Delhi,Home Office,4,0.05,1839.0,91.35
+PROD-0210,Scanner,Technology,Machines,2025-12-04,Central,Uttar Pradesh,Chennai,Home Office,8,0.2,540.93,81.32
+PROD-0211,File Labels,Office Supplies,Labels,2025-01-09,Central,Maharashtra,Mumbai,Consumer,7,0.05,20183.27,1471.69
+PROD-0212,Scanner,Technology,Machines,2025-07-01,West,Tamil Nadu,Gurugram,Consumer,5,0.0,19904.17,2851.53
+PROD-0213,Laptop,Technology,Computers,2025-12-17,West,Haryana,Chennai,Corporate,2,0.0,16395.33,1203.01
+PROD-0214,Ergonomic Chair,Furniture,Chairs,2025-03-29,South,Delhi,Chennai,Consumer,2,0.15,12571.48,2257.12
+PROD-0215,Computer Table,Furniture,Tables,2025-10-18,South,Uttar Pradesh,Ghaziabad,Corporate,8,0.0,6886.71,1522.7
+PROD-0216,Computer Table,Furniture,Tables,2025-03-15,East,Haryana,Chennai,Corporate,7,0.1,23232.54,1894.64
+PROD-0217,Document Folder,Office Supplies,Binders,2025-02-10,Central,Rajasthan,Gurugram,Home Office,6,0.15,1484.36,136.31
+PROD-0218,Color Copier,Technology,Copiers,2025-01-16,South,Haryana,Ahmedabad,Consumer,5,0.15,19621.17,2879.47
+PROD-0219,Fax Machine,Technology,Machines,2025-07-14,Central,Delhi,Pune,Consumer,2,0.1,19338.36,4342.67
+PROD-0220,Document Folder,Office Supplies,Binders,2025-07-19,South,Tamil Nadu,Bengaluru,Corporate,6,0.0,9113.4,467.51
+PROD-0221,Conference Table,Furniture,Tables,2025-04-06,Central,Uttar Pradesh,Noida,Corporate,7,0.2,11303.77,1610.65
+PROD-0222,Business Phone,Technology,Phones,2025-11-03,West,Delhi,Chennai,Consumer,6,0.0,21613.4,2657.62
+PROD-0223,Printer,Technology,Machines,2025-12-17,West,Maharashtra,Noida,Consumer,7,0.1,4362.12,491.85
+PROD-0224,File Cabinet,Office Supplies,Storage,2025-06-03,East,Tamil Nadu,Gurugram,Home Office,8,0.1,19599.27,1991.92
+PROD-0225,Desk Lamp,Furniture,Furnishings,2025-03-11,West,Rajasthan,Jaipur,Corporate,5,0.15,318.17,35.98
+PROD-0226,Address Labels,Office Supplies,Labels,2025-06-03,East,Haryana,Bengaluru,Corporate,6,0.05,15139.8,2441.52
+PROD-0227,Office Copier,Technology,Copiers,2025-05-05,East,Maharashtra,Chennai,Consumer,6,0.15,9494.97,1140.02
+PROD-0228,Office Copier,Technology,Copiers,2025-04-18,West,Tamil Nadu,Ghaziabad,Home Office,8,0.0,19972.49,5087.82
+PROD-0229,File Binder,Office Supplies,Binders,2025-12-04,West,Haryana,Chennai,Home Office,3,0.15,17923.62,1043.47
+PROD-0230,Office Copier,Technology,Copiers,2025-01-19,Central,Delhi,Mumbai,Home Office,6,0.2,17585.61,2791.96
+PROD-0231,Keyboard,Technology,Accessories,2025-11-28,South,Haryana,Noida,Consumer,1,0.15,14146.02,3507.47
+PROD-0232,Wood Bookcase,Furniture,Bookcases,2025-09-19,East,Rajasthan,Delhi,Corporate,4,0.15,11227.6,1581.98
+PROD-0233,Office Bookcase,Furniture,Bookcases,2025-02-13,South,Tamil Nadu,Mumbai,Home Office,2,0.05,20808.25,2709.82
+PROD-0234,File Cabinet,Office Supplies,Storage,2025-02-19,South,Uttar Pradesh,Noida,Consumer,8,0.15,18091.55,1994.92
+PROD-0235,Printer Paper,Office Supplies,Paper,2025-03-26,West,Tamil Nadu,Mumbai,Corporate,4,0.2,12972.45,934.37
+PROD-0236,Desktop Computer,Technology,Computers,2025-11-24,West,Haryana,Ahmedabad,Consumer,7,0.2,9980.22,2161.91
+PROD-0237,Desktop Computer,Technology,Computers,2025-05-23,South,Karnataka,Jaipur,Consumer,2,0.2,14497.1,1121.96
+PROD-0238,Drawing Paper,Office Supplies,Art,2025-11-24,Central,Rajasthan,Bengaluru,Corporate,6,0.2,14984.73,1775.82
+PROD-0239,Tablet,Technology,Computers,2025-12-28,East,Rajasthan,Noida,Consumer,5,0.2,22979.26,1308.68
+PROD-0240,Copy Paper,Office Supplies,Paper,2025-07-11,West,Haryana,Ghaziabad,Corporate,3,0.15,12844.0,2173.72
+PROD-0241,Fax Machine,Technology,Machines,2025-11-27,East,Rajasthan,Jaipur,Home Office,3,0.15,13939.58,1448.01
+PROD-0242,Wood Bookcase,Furniture,Bookcases,2025-09-06,West,Haryana,Jaipur,Corporate,3,0.15,4998.94,1236.31
+PROD-0243,Color Copier,Technology,Copiers,2025-03-27,South,Karnataka,Chennai,Corporate,2,0.05,14200.14,1659.59
+PROD-0244,Cushion,Furniture,Furnishings,2025-09-11,South,Uttar Pradesh,Jaipur,Home Office,2,0.1,14381.94,3155.4
+PROD-0245,Desk Lamp,Furniture,Furnishings,2025-12-01,South,Delhi,Jaipur,Consumer,4,0.0,7548.07,1226.06
+PROD-0246,Computer Table,Furniture,Tables,2025-10-29,East,Maharashtra,Mumbai,Consumer,6,0.2,21547.06,3588.75
+PROD-0247,Storage Bookcase,Furniture,Bookcases,2025-05-24,South,Delhi,Ghaziabad,Corporate,3,0.1,8192.79,902.03
+PROD-0248,Storage Bookcase,Furniture,Bookcases,2025-03-06,West,Tamil Nadu,Ghaziabad,Home Office,3,0.1,6354.48,1470.48
+PROD-0249,USB Hub,Technology,Accessories,2025-08-01,South,Rajasthan,Jaipur,Corporate,7,0.0,11381.99,1715.41
+PROD-0250,Address Labels,Office Supplies,Labels,2025-02-17,West,Karnataka,Ahmedabad,Consumer,8,0.1,15925.79,3762.85
+PROD-0251,File Cabinet,Office Supplies,Storage,2025-05-26,West,Rajasthan,Delhi,Consumer,6,0.05,13750.67,2502.05
+PROD-0252,Desk Lamp,Furniture,Furnishings,2025-03-05,West,Karnataka,Ghaziabad,Home Office,3,0.0,11115.96,3312.11
+PROD-0253,File Binder,Office Supplies,Binders,2025-02-17,East,Uttar Pradesh,Ahmedabad,Home Office,6,0.1,6372.17,1239.48
+PROD-0254,File Binder,Office Supplies,Binders,2025-12-02,Central,Maharashtra,Gurugram,Consumer,2,0.0,17636.9,1822.87
+PROD-0255,Laser Copier,Technology,Copiers,2025-01-05,West,Delhi,Mumbai,Corporate,6,0.15,20455.16,3886.1
+PROD-0256,Office Chair,Furniture,Chairs,2025-06-10,East,Maharashtra,Noida,Home Office,6,0.05,22042.58,3050.61
+PROD-0257,Business Phone,Technology,Phones,2025-11-29,East,Haryana,Gurugram,Home Office,3,0.05,11086.47,2180.37
+PROD-0258,Ring Binder,Office Supplies,Binders,2025-02-21,South,Haryana,Bengaluru,Consumer,3,0.2,18848.27,3505.81
+PROD-0259,Storage Bookcase,Furniture,Bookcases,2025-02-13,South,Uttar Pradesh,Pune,Consumer,4,0.2,13901.91,2561.23
+PROD-0260,Fax Machine,Technology,Machines,2025-04-07,East,Tamil Nadu,Ahmedabad,Consumer,7,0.0,7494.22,1843.21
+PROD-0261,Cushion,Furniture,Furnishings,2025-11-01,South,Maharashtra,Ahmedabad,Home Office,2,0.0,13277.92,3939.83
+PROD-0262,Plastic Storage,Office Supplies,Storage,2025-12-16,Central,Uttar Pradesh,Pune,Consumer,3,0.0,19103.74,1034.89
+PROD-0263,Dining Chair,Furniture,Chairs,2025-09-17,West,Haryana,Noida,Home Office,5,0.2,15769.98,3050.26
+PROD-0264,Fax Machine,Technology,Machines,2025-03-20,East,Maharashtra,Chennai,Corporate,5,0.0,2227.39,396.09
+PROD-0265,Shipping Labels,Office Supplies,Labels,2025-11-29,East,Uttar Pradesh,Mumbai,Consumer,2,0.15,7857.71,1552.81
+PROD-0266,Notebook,Office Supplies,Paper,2025-11-10,East,Uttar Pradesh,Ghaziabad,Corporate,1,0.05,7835.86,594.49
+PROD-0267,Shipping Labels,Office Supplies,Labels,2025-05-13,Central,Uttar Pradesh,Bengaluru,Corporate,3,0.1,9390.96,1971.26
+PROD-0268,Address Labels,Office Supplies,Labels,2025-05-15,West,Maharashtra,Bengaluru,Consumer,2,0.2,12479.27,1397.99
+PROD-0269,Printer Paper,Office Supplies,Paper,2025-12-12,Central,Karnataka,Delhi,Corporate,2,0.2,5825.85,236.03
+PROD-0270,Sketch Pen,Office Supplies,Art,2025-04-02,East,Haryana,Bengaluru,Corporate,1,0.15,13888.69,1252.89
+PROD-0271,Wood Bookcase,Furniture,Bookcases,2025-09-15,West,Delhi,Jaipur,Corporate,1,0.2,4606.71,1088.49
+PROD-0272,Storage Box,Office Supplies,Storage,2025-10-11,South,Karnataka,Jaipur,Corporate,8,0.05,348.03,40.63
+PROD-0273,Laser Copier,Technology,Copiers,2025-10-07,South,Uttar Pradesh,Bengaluru,Consumer,4,0.15,3891.57,185.16
+PROD-0274,Office Copier,Technology,Copiers,2025-06-07,Central,Maharashtra,Pune,Consumer,2,0.05,5249.08,772.7
+PROD-0275,Computer Table,Furniture,Tables,2025-07-31,East,Haryana,Noida,Home Office,6,0.0,11542.68,2253.05
+PROD-0276,Cordless Phone,Technology,Phones,2025-12-06,West,Rajasthan,Bengaluru,Corporate,3,0.1,6033.78,1426.72
+PROD-0277,Ring Binder,Office Supplies,Binders,2025-04-14,Central,Maharashtra,Jaipur,Corporate,3,0.2,19531.43,1206.94
+PROD-0278,Sketch Pen,Office Supplies,Art,2025-10-02,West,Gujarat,Noida,Consumer,6,0.05,24121.17,3734.69
+PROD-0279,Storage Bookcase,Furniture,Bookcases,2025-12-23,East,Rajasthan,Ahmedabad,Home Office,1,0.1,5493.27,430.52
+PROD-0280,Office Bookcase,Furniture,Bookcases,2025-03-31,East,Delhi,Jaipur,Consumer,1,0.15,23809.6,3824.78
+PROD-0281,Office Chair,Furniture,Chairs,2025-02-01,Central,Gujarat,Noida,Consumer,4,0.15,3398.27,413.23
+PROD-0282,Computer Table,Furniture,Tables,2025-08-16,West,Uttar Pradesh,Ghaziabad,Home Office,3,0.1,2435.67,176.75
+PROD-0283,Marker Set,Office Supplies,Art,2025-01-16,East,Gujarat,Pune,Corporate,7,0.05,17127.84,2253.36
+PROD-0284,Ergonomic Chair,Furniture,Chairs,2025-11-14,West,Uttar Pradesh,Noida,Corporate,4,0.15,16234.87,2111.32
+PROD-0285,File Binder,Office Supplies,Binders,2025-04-13,West,Rajasthan,Jaipur,Home Office,4,0.2,15824.25,3148.54
+PROD-0286,Plastic Storage,Office Supplies,Storage,2025-09-15,East,Uttar Pradesh,Pune,Consumer,6,0.05,9801.27,526.23
+PROD-0287,File Labels,Office Supplies,Labels,2025-10-27,East,Gujarat,Chennai,Home Office,4,0.0,24353.4,2726.71
+PROD-0288,Computer Table,Furniture,Tables,2025-07-18,South,Rajasthan,Gurugram,Consumer,6,0.05,23389.87,2089.27
+PROD-0289,USB Hub,Technology,Accessories,2025-10-16,West,Gujarat,Ghaziabad,Corporate,3,0.05,14143.26,3482.29
+PROD-0290,Office Chair,Furniture,Chairs,2025-04-30,East,Maharashtra,Bengaluru,Home Office,4,0.15,645.21,27.52
+PROD-0291,Wood Bookcase,Furniture,Bookcases,2025-01-12,South,Delhi,Bengaluru,Home Office,3,0.05,14727.24,3408.06
+PROD-0292,Office Copier,Technology,Copiers,2025-02-21,West,Tamil Nadu,Bengaluru,Consumer,6,0.05,7648.86,2136.07
+PROD-0293,Fax Machine,Technology,Machines,2025-11-11,West,Gujarat,Pune,Consumer,6,0.2,5697.44,1155.96
+PROD-0294,Ergonomic Chair,Furniture,Chairs,2025-10-21,South,Karnataka,Gurugram,Consumer,7,0.2,21291.31,989.55
+PROD-0295,File Binder,Office Supplies,Binders,2025-02-09,Central,Rajasthan,Jaipur,Consumer,4,0.1,8768.23,725.79
+PROD-0296,Ring Binder,Office Supplies,Binders,2025-12-21,Central,Haryana,Jaipur,Home Office,2,0.0,8859.46,2038.59
+PROD-0297,File Binder,Office Supplies,Binders,2025-09-10,West,Karnataka,Ghaziabad,Corporate,7,0.15,8878.09,568.67
+PROD-0298,Dining Chair,Furniture,Chairs,2025-01-11,East,Haryana,Ghaziabad,Home Office,6,0.0,6639.02,455.11
+PROD-0299,Dining Chair,Furniture,Chairs,2025-11-01,East,Haryana,Ghaziabad,Consumer,8,0.15,17656.94,4286.56
+PROD-0300,Wood Bookcase,Furniture,Bookcases,2025-04-08,South,Gujarat,Mumbai,Consumer,7,0.2,17475.34,1626.13
+PROD-0301,Cushion,Furniture,Furnishings,2025-10-09,Central,Gujarat,Gurugram,Corporate,8,0.1,3966.71,181.91
+PROD-0302,Office Chair,Furniture,Chairs,2025-04-16,Central,Gujarat,Ahmedabad,Corporate,3,0.0,16009.04,2695.8
+PROD-0303,Storage Box,Office Supplies,Storage,2025-11-25,West,Uttar Pradesh,Pune,Corporate,7,0.15,4744.3,574.05
+PROD-0304,Storage Box,Office Supplies,Storage,2025-05-18,South,Haryana,Gurugram,Consumer,1,0.0,3905.6,278.96
+PROD-0305,Cordless Phone,Technology,Phones,2025-09-25,East,Tamil Nadu,Pune,Consumer,7,0.15,24145.85,3964.79
+PROD-0306,Printer Paper,Office Supplies,Paper,2025-10-20,East,Karnataka,Mumbai,Consumer,3,0.15,3139.0,248.72
+PROD-0307,Desk Lamp,Furniture,Furnishings,2025-12-16,South,Rajasthan,Noida,Consumer,7,0.05,5167.69,1269.19
+PROD-0308,File Labels,Office Supplies,Labels,2025-10-10,Central,Haryana,Noida,Corporate,6,0.2,21437.11,2821.8
+PROD-0309,Computer Table,Furniture,Tables,2025-10-29,South,Rajasthan,Ahmedabad,Corporate,2,0.2,23134.46,4532.25
+PROD-0310,Drawing Paper,Office Supplies,Art,2025-11-08,West,Uttar Pradesh,Ahmedabad,Corporate,8,0.1,1081.02,146.66
+PROD-0311,Desktop Computer,Technology,Computers,2025-09-01,South,Gujarat,Pune,Corporate,5,0.0,22441.23,3017.59
+PROD-0312,Smartphone,Technology,Phones,2025-03-10,South,Gujarat,Ahmedabad,Home Office,5,0.15,24359.35,5041.94
+PROD-0313,Smartphone,Technology,Phones,2025-08-15,South,Uttar Pradesh,Chennai,Consumer,4,0.15,22848.81,4568.64
+PROD-0314,Storage Bookcase,Furniture,Bookcases,2025-09-17,Central,Maharashtra,Mumbai,Consumer,7,0.2,3520.9,760.04
+PROD-0315,Conference Table,Furniture,Tables,2025-08-22,West,Haryana,Noida,Home Office,1,0.05,22963.07,2584.94
+PROD-0316,Dining Table,Furniture,Tables,2025-09-08,South,Rajasthan,Ghaziabad,Corporate,8,0.15,4562.95,762.98
+PROD-0317,Cordless Phone,Technology,Phones,2025-01-15,East,Karnataka,Mumbai,Home Office,7,0.2,1383.83,271.18
+PROD-0318,Storage Bookcase,Furniture,Bookcases,2025-07-29,East,Maharashtra,Gurugram,Consumer,1,0.0,21636.05,3646.2
+PROD-0319,Storage Bookcase,Furniture,Bookcases,2025-06-06,West,Gujarat,Mumbai,Corporate,5,0.15,10681.6,2386.93
+PROD-0320,Shipping Labels,Office Supplies,Labels,2025-07-23,South,Gujarat,Noida,Corporate,2,0.1,332.59,56.98
+PROD-0321,Office Bookcase,Furniture,Bookcases,2025-11-24,South,Karnataka,Ghaziabad,Home Office,6,0.1,21558.07,4152.66
+PROD-0322,Ergonomic Chair,Furniture,Chairs,2025-07-26,South,Gujarat,Ahmedabad,Corporate,6,0.0,17066.78,3649.73
+PROD-0323,Printer Paper,Office Supplies,Paper,2025-12-29,West,Rajasthan,Chennai,Corporate,4,0.05,8677.7,1826.66
+PROD-0324,Dining Table,Furniture,Tables,2025-02-19,East,Rajasthan,Noida,Consumer,8,0.1,3329.41,693.07
+PROD-0325,Document Folder,Office Supplies,Binders,2025-06-07,South,Tamil Nadu,Noida,Corporate,7,0.1,19734.05,2538.36
+PROD-0326,Dining Chair,Furniture,Chairs,2025-04-10,West,Uttar Pradesh,Ghaziabad,Consumer,2,0.15,21707.32,3366.6
+PROD-0327,Office Bookcase,Furniture,Bookcases,2025-10-19,West,Rajasthan,Ghaziabad,Corporate,8,0.05,3709.12,862.36
+PROD-0328,Smartphone,Technology,Phones,2025-08-20,East,Tamil Nadu,Noida,Consumer,5,0.05,5353.15,986.94
+PROD-0329,Office Copier,Technology,Copiers,2025-08-08,Central,Karnataka,Bengaluru,Consumer,7,0.15,10811.28,1340.11
+PROD-0330,Address Labels,Office Supplies,Labels,2025-01-10,South,Gujarat,Ghaziabad,Consumer,1,0.05,15723.17,1591.78
+PROD-0331,Shipping Labels,Office Supplies,Labels,2025-06-06,South,Tamil Nadu,Chennai,Home Office,3,0.0,1772.38,220.75
+PROD-0332,Mouse,Technology,Accessories,2025-12-18,East,Maharashtra,Ahmedabad,Consumer,3,0.15,8666.91,1029.98
+PROD-0333,Computer Table,Furniture,Tables,2025-03-09,Central,Rajasthan,Delhi,Corporate,4,0.2,18391.8,2591.9
+PROD-0334,USB Hub,Technology,Accessories,2025-11-16,Central,Uttar Pradesh,Noida,Corporate,1,0.0,14909.01,3212.78
+PROD-0335,Sketch Pen,Office Supplies,Art,2025-10-08,Central,Gujarat,Ahmedabad,Home Office,5,0.05,11938.75,1149.76
+PROD-0336,Storage Bookcase,Furniture,Bookcases,2025-11-07,Central,Gujarat,Noida,Consumer,3,0.0,10557.82,1878.2
+PROD-0337,Document Folder,Office Supplies,Binders,2025-04-13,West,Gujarat,Ghaziabad,Consumer,5,0.05,20812.75,2757.82
+PROD-0338,Laser Copier,Technology,Copiers,2025-12-19,Central,Delhi,Gurugram,Home Office,8,0.0,8365.5,444.94
+PROD-0339,Ring Binder,Office Supplies,Binders,2025-09-19,East,Tamil Nadu,Pune,Corporate,2,0.0,18130.56,5007.57
+PROD-0340,Copy Paper,Office Supplies,Paper,2025-03-31,South,Haryana,Noida,Consumer,1,0.1,21328.38,4806.55
+PROD-0341,Office Chair,Furniture,Chairs,2025-12-06,South,Delhi,Bengaluru,Corporate,3,0.15,8317.22,2041.52
+PROD-0342,Dining Chair,Furniture,Chairs,2025-07-24,West,Haryana,Ghaziabad,Consumer,8,0.15,6905.05,1305.77
+PROD-0343,Office Chair,Furniture,Chairs,2025-02-23,West,Maharashtra,Gurugram,Corporate,7,0.15,22793.99,4854.69
+PROD-0344,Address Labels,Office Supplies,Labels,2025-12-17,West,Tamil Nadu,Delhi,Consumer,3,0.15,12154.53,808.27
+PROD-0345,Storage Box,Office Supplies,Storage,2025-12-27,Central,Haryana,Mumbai,Corporate,4,0.1,24450.7,3956.06
+PROD-0346,Sketch Pen,Office Supplies,Art,2025-10-13,West,Tamil Nadu,Ghaziabad,Consumer,1,0.05,439.37,73.63
+PROD-0347,Storage Box,Office Supplies,Storage,2025-06-19,West,Haryana,Mumbai,Consumer,5,0.05,1401.22,249.76
+PROD-0348,Drawing Paper,Office Supplies,Art,2025-08-18,West,Uttar Pradesh,Noida,Corporate,2,0.15,21436.24,2350.76
+PROD-0349,Printer Paper,Office Supplies,Paper,2025-10-09,South,Karnataka,Jaipur,Corporate,1,0.2,20673.83,4809.44
+PROD-0350,Copy Paper,Office Supplies,Paper,2025-08-21,South,Tamil Nadu,Noida,Consumer,6,0.2,14069.75,2251.02
+PROD-0351,Desktop Computer,Technology,Computers,2025-06-24,South,Delhi,Delhi,Consumer,6,0.1,20772.61,3494.58
+PROD-0352,Document Folder,Office Supplies,Binders,2025-07-29,West,Karnataka,Jaipur,Consumer,2,0.05,6469.09,595.43
+PROD-0353,Keyboard,Technology,Accessories,2025-08-01,West,Tamil Nadu,Gurugram,Home Office,1,0.2,23176.67,1498.23
+PROD-0354,Desk Lamp,Furniture,Furnishings,2025-09-29,West,Maharashtra,Gurugram,Consumer,1,0.15,13897.67,3067.89
+PROD-0355,Desktop Computer,Technology,Computers,2025-07-18,East,Gujarat,Ahmedabad,Corporate,6,0.15,12677.14,1666.62
+PROD-0356,Sketch Pen,Office Supplies,Art,2025-03-12,South,Karnataka,Mumbai,Consumer,7,0.2,15122.73,1508.99
+PROD-0357,USB Hub,Technology,Accessories,2025-06-26,South,Delhi,Bengaluru,Home Office,3,0.05,24536.19,4101.83
+PROD-0358,Shipping Labels,Office Supplies,Labels,2025-12-08,West,Uttar Pradesh,Chennai,Consumer,7,0.2,16904.95,1642.92
+PROD-0359,Desk Lamp,Furniture,Furnishings,2025-01-28,South,Maharashtra,Delhi,Home Office,1,0.05,5117.58,1438.5
+PROD-0360,Document Folder,Office Supplies,Binders,2025-01-17,East,Haryana,Mumbai,Home Office,6,0.0,20378.55,4157.78
+PROD-0361,USB Hub,Technology,Accessories,2025-12-07,South,Uttar Pradesh,Delhi,Home Office,1,0.15,23173.15,3036.15
+PROD-0362,Document Folder,Office Supplies,Binders,2025-08-15,East,Karnataka,Pune,Corporate,4,0.1,22800.44,4899.8
+PROD-0363,Office Chair,Furniture,Chairs,2025-03-30,South,Maharashtra,Ghaziabad,Home Office,2,0.15,9523.38,969.59
+PROD-0364,Notebook,Office Supplies,Paper,2025-08-27,South,Tamil Nadu,Gurugram,Home Office,3,0.1,1142.52,204.85
+PROD-0365,Printer Paper,Office Supplies,Paper,2025-06-12,East,Haryana,Chennai,Home Office,4,0.2,23931.14,1283.55
+PROD-0366,Notebook,Office Supplies,Paper,2025-04-24,East,Tamil Nadu,Chennai,Home Office,4,0.1,16633.86,2098.85
+PROD-0367,Ergonomic Chair,Furniture,Chairs,2025-06-27,East,Uttar Pradesh,Bengaluru,Corporate,8,0.2,6122.64,1369.77
+PROD-0368,Wall Clock,Furniture,Furnishings,2025-10-04,South,Tamil Nadu,Jaipur,Consumer,5,0.2,763.94,156.17
+PROD-0369,File Binder,Office Supplies,Binders,2025-09-21,Central,Delhi,Mumbai,Home Office,2,0.05,23713.06,6598.44
+PROD-0370,Tablet,Technology,Computers,2025-08-06,Central,Maharashtra,Delhi,Corporate,2,0.15,5258.65,946.0
+PROD-0371,Keyboard,Technology,Accessories,2025-02-14,East,Gujarat,Ahmedabad,Corporate,2,0.1,1498.56,255.61
+PROD-0372,Marker Set,Office Supplies,Art,2025-06-11,Central,Uttar Pradesh,Noida,Corporate,1,0.0,9829.12,1805.69
+PROD-0373,Cordless Phone,Technology,Phones,2025-12-18,West,Haryana,Ahmedabad,Home Office,5,0.1,15223.16,3306.27
+PROD-0374,Desk Lamp,Furniture,Furnishings,2025-10-01,South,Maharashtra,Pune,Home Office,4,0.15,3539.08,749.63
+PROD-0375,Keyboard,Technology,Accessories,2025-10-11,West,Delhi,Pune,Consumer,3,0.0,3212.39,620.57
+PROD-0376,Keyboard,Technology,Accessories,2025-07-31,South,Karnataka,Noida,Consumer,3,0.05,4149.72,805.09
+PROD-0377,Printer,Technology,Machines,2025-10-09,Central,Gujarat,Noida,Consumer,8,0.0,16170.16,1983.48
+PROD-0378,Scanner,Technology,Machines,2025-06-19,Central,Karnataka,Bengaluru,Corporate,6,0.05,3336.15,237.74
+PROD-0379,Plastic Storage,Office Supplies,Storage,2025-12-04,South,Rajasthan,Ahmedabad,Consumer,5,0.05,17382.43,3160.45
+PROD-0380,Wood Bookcase,Furniture,Bookcases,2025-04-24,South,Tamil Nadu,Jaipur,Corporate,7,0.1,7025.49,528.45
+PROD-0381,File Cabinet,Office Supplies,Storage,2025-10-10,South,Maharashtra,Chennai,Consumer,2,0.2,4517.89,254.79
+PROD-0382,Printer Paper,Office Supplies,Paper,2025-02-08,West,Karnataka,Delhi,Home Office,1,0.0,21262.24,5382.76
+PROD-0383,Shipping Labels,Office Supplies,Labels,2025-08-30,South,Maharashtra,Jaipur,Home Office,3,0.05,9240.59,2395.31
+PROD-0384,Cordless Phone,Technology,Phones,2025-07-06,East,Tamil Nadu,Ghaziabad,Consumer,1,0.2,16617.56,2938.52
+PROD-0385,Fax Machine,Technology,Machines,2025-03-16,West,Karnataka,Noida,Corporate,8,0.0,23488.51,2459.36
+PROD-0386,Ring Binder,Office Supplies,Binders,2025-12-09,West,Uttar Pradesh,Delhi,Home Office,4,0.1,13019.45,1722.75
+PROD-0387,Printer Paper,Office Supplies,Paper,2025-09-24,East,Haryana,Ahmedabad,Corporate,5,0.1,20896.58,3660.92
+PROD-0388,Business Phone,Technology,Phones,2025-05-09,South,Rajasthan,Jaipur,Corporate,7,0.05,24320.95,4137.93
+PROD-0389,Business Phone,Technology,Phones,2025-03-13,South,Karnataka,Ghaziabad,Consumer,8,0.0,4265.3,761.93
+PROD-0390,Storage Bookcase,Furniture,Bookcases,2025-03-02,West,Tamil Nadu,Jaipur,Consumer,4,0.1,10453.15,2164.4
+PROD-0391,Tablet,Technology,Computers,2025-07-30,East,Maharashtra,Chennai,Consumer,1,0.05,6205.21,1139.92
+PROD-0392,Desktop Computer,Technology,Computers,2025-03-27,Central,Gujarat,Noida,Consumer,5,0.2,23072.8,5344.76
+PROD-0393,File Labels,Office Supplies,Labels,2025-09-04,East,Gujarat,Ghaziabad,Home Office,3,0.15,5601.19,953.2
+PROD-0394,Mouse,Technology,Accessories,2025-11-02,Central,Karnataka,Chennai,Home Office,2,0.15,5860.87,413.75
+PROD-0395,Laser Copier,Technology,Copiers,2025-11-07,Central,Delhi,Jaipur,Home Office,2,0.2,4558.94,729.26
+PROD-0396,Ergonomic Chair,Furniture,Chairs,2025-11-29,West,Karnataka,Jaipur,Corporate,7,0.1,13122.8,3173.56
+PROD-0397,Shipping Labels,Office Supplies,Labels,2025-12-23,East,Delhi,Pune,Home Office,2,0.1,10723.41,1633.78
+PROD-0398,Color Copier,Technology,Copiers,2025-04-07,Central,Uttar Pradesh,Ahmedabad,Home Office,1,0.0,17772.35,3456.66
+PROD-0399,Office Bookcase,Furniture,Bookcases,2025-07-05,West,Rajasthan,Gurugram,Corporate,2,0.2,3996.25,362.57
+PROD-0400,Laser Copier,Technology,Copiers,2025-07-31,South,Gujarat,Gurugram,Corporate,8,0.2,4591.18,693.19
+PROD-0401,Office Copier,Technology,Copiers,2025-03-12,East,Delhi,Mumbai,Home Office,2,0.15,18733.18,3913.56
+PROD-0402,Plastic Storage,Office Supplies,Storage,2025-11-11,East,Tamil Nadu,Gurugram,Corporate,1,0.0,4144.34,1040.61
+PROD-0403,Dining Chair,Furniture,Chairs,2025-04-24,West,Gujarat,Gurugram,Consumer,6,0.0,2138.99,494.37
+PROD-0404,Wall Clock,Furniture,Furnishings,2025-01-06,Central,Karnataka,Gurugram,Consumer,4,0.2,21286.61,2069.09
+PROD-0405,Cordless Phone,Technology,Phones,2025-05-03,West,Rajasthan,Ahmedabad,Corporate,1,0.0,24394.8,7299.03
+PROD-0406,Tablet,Technology,Computers,2025-01-08,South,Rajasthan,Pune,Consumer,2,0.2,22991.56,2227.85
+PROD-0407,Laptop,Technology,Computers,2025-07-26,Central,Gujarat,Bengaluru,Consumer,1,0.15,6638.52,996.28
+PROD-0408,USB Hub,Technology,Accessories,2025-10-22,East,Rajasthan,Jaipur,Home Office,5,0.15,17400.67,2821.92
+PROD-0409,Address Labels,Office Supplies,Labels,2025-09-04,East,Karnataka,Bengaluru,Corporate,2,0.15,6556.82,1161.56
+PROD-0410,Shipping Labels,Office Supplies,Labels,2025-01-05,South,Delhi,Chennai,Consumer,5,0.0,6319.2,946.19
+PROD-0411,File Cabinet,Office Supplies,Storage,2025-04-22,East,Karnataka,Mumbai,Corporate,5,0.05,4692.19,778.96
+PROD-0412,Conference Table,Furniture,Tables,2025-05-08,Central,Tamil Nadu,Gurugram,Consumer,6,0.0,4026.49,322.0
+PROD-0413,Cordless Phone,Technology,Phones,2025-07-10,West,Maharashtra,Chennai,Corporate,6,0.2,12384.66,2647.27
+PROD-0414,Document Folder,Office Supplies,Binders,2025-03-07,Central,Rajasthan,Ahmedabad,Home Office,1,0.15,13214.53,1904.78
+PROD-0415,Desk Lamp,Furniture,Furnishings,2025-12-24,East,Haryana,Gurugram,Consumer,8,0.0,7993.93,423.32
+PROD-0416,Plastic Storage,Office Supplies,Storage,2025-05-13,South,Rajasthan,Ghaziabad,Corporate,3,0.05,13781.8,1536.46
+PROD-0417,File Binder,Office Supplies,Binders,2025-12-25,East,Maharashtra,Gurugram,Home Office,6,0.15,9222.19,939.94
+PROD-0418,Ergonomic Chair,Furniture,Chairs,2025-05-19,East,Tamil Nadu,Delhi,Consumer,4,0.15,13950.2,1174.1
+PROD-0419,Sketch Pen,Office Supplies,Art,2025-11-19,Central,Haryana,Noida,Home Office,6,0.1,19665.52,1995.44
+PROD-0420,Office Chair,Furniture,Chairs,2025-05-11,South,Gujarat,Bengaluru,Corporate,8,0.0,20998.45,3411.49
+PROD-0421,Scanner,Technology,Machines,2025-06-26,East,Maharashtra,Pune,Corporate,1,0.1,10382.26,2493.38
+PROD-0422,File Labels,Office Supplies,Labels,2025-08-17,East,Maharashtra,Bengaluru,Corporate,2,0.1,9619.61,1436.63
+PROD-0423,Fax Machine,Technology,Machines,2025-07-27,South,Gujarat,Pune,Home Office,2,0.1,2115.93,203.87
+PROD-0424,Color Copier,Technology,Copiers,2025-08-16,West,Maharashtra,Ghaziabad,Consumer,6,0.2,18735.2,4367.27
+PROD-0425,Computer Table,Furniture,Tables,2025-05-09,Central,Tamil Nadu,Chennai,Consumer,2,0.15,5382.7,346.59
+PROD-0426,Cushion,Furniture,Furnishings,2025-02-12,West,Gujarat,Mumbai,Consumer,2,0.05,6671.94,450.52
+PROD-0427,Mouse,Technology,Accessories,2025-11-17,South,Rajasthan,Jaipur,Corporate,3,0.05,3412.24,185.24
+PROD-0428,USB Hub,Technology,Accessories,2025-08-16,West,Haryana,Chennai,Home Office,3,0.2,24243.13,1828.11
+PROD-0429,Scanner,Technology,Machines,2025-06-27,South,Haryana,Pune,Consumer,8,0.0,13560.75,2176.03
+PROD-0430,Copy Paper,Office Supplies,Paper,2025-09-25,West,Tamil Nadu,Pune,Consumer,3,0.15,8695.54,1358.32
+PROD-0431,Plastic Storage,Office Supplies,Storage,2025-04-29,West,Haryana,Mumbai,Consumer,1,0.05,13773.07,2001.05
+PROD-0432,Color Copier,Technology,Copiers,2025-04-23,South,Gujarat,Chennai,Corporate,5,0.05,2118.36,360.53
+PROD-0433,Ring Binder,Office Supplies,Binders,2025-04-04,South,Tamil Nadu,Mumbai,Corporate,3,0.15,7346.44,1276.57
+PROD-0434,Conference Table,Furniture,Tables,2025-10-01,East,Tamil Nadu,Delhi,Consumer,1,0.0,4770.55,574.99
+PROD-0435,Conference Table,Furniture,Tables,2025-09-10,West,Rajasthan,Jaipur,Home Office,4,0.1,8646.53,1917.7
+PROD-0436,Wood Bookcase,Furniture,Bookcases,2025-03-16,West,Maharashtra,Mumbai,Corporate,1,0.15,6772.61,390.57
+PROD-0437,Copy Paper,Office Supplies,Paper,2025-05-08,Central,Karnataka,Jaipur,Home Office,7,0.15,19314.95,1835.34
+PROD-0438,Dining Table,Furniture,Tables,2025-07-19,Central,Delhi,Pune,Corporate,5,0.05,23414.95,4611.02
+PROD-0439,Keyboard,Technology,Accessories,2025-07-04,East,Haryana,Bengaluru,Consumer,1,0.05,21611.89,6022.21
+PROD-0440,Storage Bookcase,Furniture,Bookcases,2025-03-03,West,Maharashtra,Bengaluru,Consumer,7,0.0,19760.22,5774.11
+PROD-0441,Dining Table,Furniture,Tables,2025-02-16,East,Delhi,Ghaziabad,Corporate,6,0.0,23281.59,1511.99
+PROD-0442,Storage Bookcase,Furniture,Bookcases,2025-11-27,Central,Haryana,Bengaluru,Home Office,6,0.15,20167.31,3999.23
+PROD-0443,Wood Bookcase,Furniture,Bookcases,2025-09-06,East,Maharashtra,Chennai,Corporate,8,0.2,14041.77,2519.2
+PROD-0444,Marker Set,Office Supplies,Art,2025-11-03,South,Rajasthan,Jaipur,Consumer,3,0.05,1861.58,287.11
+PROD-0445,Scanner,Technology,Machines,2025-04-05,East,Rajasthan,Noida,Home Office,1,0.1,15550.4,3414.93
+PROD-0446,Laser Copier,Technology,Copiers,2025-09-26,South,Haryana,Bengaluru,Consumer,8,0.05,19178.49,3703.31
+PROD-0447,Office Chair,Furniture,Chairs,2025-03-08,East,Delhi,Delhi,Home Office,3,0.05,21856.3,1593.88
+PROD-0448,Office Copier,Technology,Copiers,2025-09-08,Central,Uttar Pradesh,Mumbai,Home Office,5,0.05,1369.78,262.2
+PROD-0449,Notebook,Office Supplies,Paper,2025-11-24,Central,Gujarat,Chennai,Consumer,1,0.15,9119.01,1980.47
+PROD-0450,Cordless Phone,Technology,Phones,2025-02-09,East,Haryana,Mumbai,Consumer,4,0.0,24020.58,1808.9
+PROD-0451,Tablet,Technology,Computers,2025-11-17,Central,Rajasthan,Jaipur,Home Office,3,0.2,14026.82,1725.82
+PROD-0452,Laser Copier,Technology,Copiers,2025-03-27,East,Tamil Nadu,Bengaluru,Corporate,3,0.2,13816.64,1485.32
+PROD-0453,Mouse,Technology,Accessories,2025-07-31,East,Haryana,Chennai,Home Office,7,0.1,20679.95,3761.54
+PROD-0454,File Cabinet,Office Supplies,Storage,2025-08-18,Central,Maharashtra,Pune,Consumer,7,0.0,154.86,45.8
+PROD-0455,Ring Binder,Office Supplies,Binders,2025-06-11,East,Delhi,Delhi,Corporate,1,0.1,19322.35,4865.37
+PROD-0456,Ring Binder,Office Supplies,Binders,2025-05-16,South,Delhi,Gurugram,Corporate,6,0.05,22257.19,2288.84
+PROD-0457,Tablet,Technology,Computers,2025-02-09,Central,Gujarat,Delhi,Home Office,6,0.05,19853.67,3245.39
+PROD-0458,Laser Copier,Technology,Copiers,2025-01-29,Central,Karnataka,Gurugram,Consumer,6,0.15,8796.07,1152.38
+PROD-0459,Laser Copier,Technology,Copiers,2025-06-06,East,Maharashtra,Delhi,Home Office,1,0.2,8085.02,565.27
+PROD-0460,Color Copier,Technology,Copiers,2025-11-01,East,Maharashtra,Bengaluru,Consumer,2,0.1,5668.83,1258.1
+PROD-0461,Shipping Labels,Office Supplies,Labels,2025-01-26,East,Maharashtra,Jaipur,Home Office,7,0.15,6674.57,995.43
+PROD-0462,Wall Clock,Furniture,Furnishings,2025-11-30,Central,Gujarat,Ahmedabad,Corporate,4,0.2,14095.02,1257.97
+PROD-0463,Printer,Technology,Machines,2025-02-27,South,Uttar Pradesh,Pune,Consumer,7,0.1,10674.98,937.91
+PROD-0464,File Labels,Office Supplies,Labels,2025-11-16,South,Maharashtra,Noida,Consumer,3,0.05,11095.52,1053.24
+PROD-0465,Smartphone,Technology,Phones,2025-11-14,Central,Gujarat,Jaipur,Corporate,3,0.1,21738.5,1045.4
+PROD-0466,Wood Bookcase,Furniture,Bookcases,2025-10-03,West,Maharashtra,Delhi,Corporate,4,0.2,5214.46,991.12
+PROD-0467,Printer,Technology,Machines,2025-05-11,South,Uttar Pradesh,Jaipur,Home Office,3,0.05,1643.73,386.17
+PROD-0468,Dining Chair,Furniture,Chairs,2025-12-05,Central,Gujarat,Ahmedabad,Consumer,5,0.1,16625.09,3981.1
+PROD-0469,Shipping Labels,Office Supplies,Labels,2025-02-20,East,Karnataka,Chennai,Corporate,6,0.2,12193.85,1784.11
+PROD-0470,Smartphone,Technology,Phones,2025-05-07,Central,Rajasthan,Bengaluru,Corporate,5,0.15,8439.21,1693.61
+PROD-0471,Keyboard,Technology,Accessories,2025-09-14,Central,Gujarat,Mumbai,Consumer,5,0.1,20325.54,4933.06
+PROD-0472,Drawing Paper,Office Supplies,Art,2025-03-12,East,Haryana,Mumbai,Home Office,2,0.2,18287.76,4244.98
+PROD-0473,Wall Clock,Furniture,Furnishings,2025-11-06,East,Karnataka,Ghaziabad,Corporate,6,0.05,11311.85,1092.78
+PROD-0474,Printer,Technology,Machines,2025-08-09,South,Delhi,Chennai,Home Office,3,0.2,16457.36,3676.94
+PROD-0475,Smartphone,Technology,Phones,2025-06-12,West,Haryana,Pune,Corporate,3,0.1,18217.93,4427.5
+PROD-0476,Keyboard,Technology,Accessories,2025-04-07,South,Karnataka,Gurugram,Consumer,2,0.0,3418.92,822.63
+PROD-0477,Dining Chair,Furniture,Chairs,2025-02-10,South,Maharashtra,Ahmedabad,Corporate,8,0.2,3482.05,465.73
+PROD-0478,Ring Binder,Office Supplies,Binders,2025-04-09,West,Karnataka,Mumbai,Consumer,4,0.0,950.9,267.54
+PROD-0479,Dining Table,Furniture,Tables,2025-11-12,West,Haryana,Delhi,Home Office,8,0.15,17243.39,3985.16
+PROD-0480,Office Copier,Technology,Copiers,2025-06-10,Central,Delhi,Jaipur,Corporate,7,0.2,15345.9,2436.33
+PROD-0481,Computer Table,Furniture,Tables,2025-10-03,Central,Karnataka,Pune,Corporate,7,0.0,24598.19,4659.52
+PROD-0482,File Cabinet,Office Supplies,Storage,2025-08-25,East,Tamil Nadu,Jaipur,Consumer,3,0.2,10648.19,2383.13
+PROD-0483,Printer,Technology,Machines,2025-04-03,East,Tamil Nadu,Gurugram,Home Office,3,0.1,9917.71,1452.44
+PROD-0484,Desk Lamp,Furniture,Furnishings,2025-05-09,Central,Delhi,Noida,Home Office,6,0.05,17339.18,3781.92
+PROD-0485,Storage Box,Office Supplies,Storage,2025-09-26,East,Haryana,Chennai,Corporate,7,0.2,18212.81,2958.02
+PROD-0486,Dining Table,Furniture,Tables,2025-10-17,Central,Haryana,Pune,Corporate,3,0.05,4178.78,376.01
+PROD-0487,Color Copier,Technology,Copiers,2025-11-17,Central,Gujarat,Delhi,Corporate,3,0.05,3071.22,846.44
+PROD-0488,Drawing Paper,Office Supplies,Art,2025-01-03,West,Haryana,Jaipur,Consumer,8,0.2,6061.28,1041.9
+PROD-0489,Printer,Technology,Machines,2025-05-06,East,Uttar Pradesh,Ghaziabad,Consumer,5,0.2,15551.19,3172.82
+PROD-0490,Wood Bookcase,Furniture,Bookcases,2025-03-16,Central,Uttar Pradesh,Noida,Corporate,1,0.2,16724.86,1667.27
+PROD-0491,Computer Table,Furniture,Tables,2025-05-26,Central,Delhi,Pune,Corporate,3,0.2,24162.39,2707.1
+PROD-0492,Sketch Pen,Office Supplies,Art,2025-08-07,South,Rajasthan,Chennai,Corporate,2,0.05,7426.89,568.01
+PROD-0493,Tablet,Technology,Computers,2025-04-18,West,Gujarat,Ahmedabad,Home Office,1,0.2,2866.16,680.53
+PROD-0494,Plastic Storage,Office Supplies,Storage,2025-10-22,West,Tamil Nadu,Ghaziabad,Home Office,6,0.2,23188.57,3536.88
+PROD-0495,Wood Bookcase,Furniture,Bookcases,2025-01-01,East,Haryana,Ahmedabad,Consumer,2,0.0,746.07,174.85
+PROD-0496,Plastic Storage,Office Supplies,Storage,2025-11-23,South,Delhi,Pune,Corporate,4,0.05,430.74,91.05
+PROD-0497,Scanner,Technology,Machines,2025-01-04,Central,Maharashtra,Mumbai,Corporate,2,0.1,17193.02,2305.77
+PROD-0498,Marker Set,Office Supplies,Art,2025-01-19,South,Tamil Nadu,Ahmedabad,Home Office,3,0.15,12115.16,2811.47
+PROD-0499,Storage Bookcase,Furniture,Bookcases,2025-12-14,South,Rajasthan,Noida,Consumer,6,0.0,13946.15,1423.42
+PROD-0500,Notebook,Office Supplies,Paper,2025-07-12,Central,Gujarat,Bengaluru,Home Office,3,0.15,14338.89,1180.35
+PROD-0501,Office Bookcase,Furniture,Bookcases,2025-02-14,South,Karnataka,Chennai,Corporate,8,0.1,21944.66,3218.82
+PROD-0502,Dining Chair,Furniture,Chairs,2025-01-20,West,Maharashtra,Mumbai,Corporate,4,0.15,22846.84,3427.57
+PROD-0503,File Labels,Office Supplies,Labels,2025-06-17,East,Karnataka,Delhi,Corporate,3,0.0,19271.61,4924.56
+PROD-0504,Address Labels,Office Supplies,Labels,2025-01-03,South,Tamil Nadu,Delhi,Consumer,5,0.2,23318.58,4998.92
+PROD-0505,Keyboard,Technology,Accessories,2025-10-23,East,Gujarat,Pune,Home Office,5,0.05,16025.44,1982.49
+PROD-0506,Drawing Paper,Office Supplies,Art,2025-03-02,Central,Karnataka,Chennai,Corporate,5,0.1,3860.62,273.15
+PROD-0507,Mouse,Technology,Accessories,2025-03-14,South,Tamil Nadu,Delhi,Consumer,5,0.05,14415.96,928.68
+PROD-0508,Cushion,Furniture,Furnishings,2025-01-26,East,Tamil Nadu,Gurugram,Corporate,2,0.0,9682.45,1516.43
+PROD-0509,Storage Box,Office Supplies,Storage,2025-12-10,Central,Tamil Nadu,Noida,Corporate,2,0.15,24345.99,3972.18
+PROD-0510,Marker Set,Office Supplies,Art,2025-04-29,South,Haryana,Ghaziabad,Home Office,4,0.2,3721.48,340.93
+PROD-0511,Mouse,Technology,Accessories,2025-08-21,West,Tamil Nadu,Ghaziabad,Corporate,8,0.15,902.06,59.98
+PROD-0512,Shipping Labels,Office Supplies,Labels,2025-03-07,Central,Gujarat,Chennai,Corporate,2,0.0,10231.3,1345.08
+PROD-0513,File Labels,Office Supplies,Labels,2025-05-03,South,Karnataka,Gurugram,Corporate,4,0.15,13766.53,1707.89
+PROD-0514,File Labels,Office Supplies,Labels,2025-10-06,West,Delhi,Gurugram,Home Office,4,0.0,4451.17,1045.32
+PROD-0515,Plastic Storage,Office Supplies,Storage,2025-02-19,Central,Haryana,Bengaluru,Corporate,8,0.15,4527.92,259.41
+PROD-0516,Smartphone,Technology,Phones,2025-04-22,East,Tamil Nadu,Chennai,Corporate,3,0.0,22198.45,5311.41
+PROD-0517,Shipping Labels,Office Supplies,Labels,2025-08-17,South,Haryana,Bengaluru,Consumer,4,0.1,5260.69,591.51
+PROD-0518,Business Phone,Technology,Phones,2025-09-19,Central,Uttar Pradesh,Chennai,Corporate,7,0.1,21213.77,1252.51
+PROD-0519,Wood Bookcase,Furniture,Bookcases,2025-05-01,West,Haryana,Ahmedabad,Corporate,7,0.15,17600.21,3086.34
+PROD-0520,Tablet,Technology,Computers,2025-03-30,South,Haryana,Ghaziabad,Corporate,8,0.2,3605.86,421.59
+PROD-0521,Desktop Computer,Technology,Computers,2025-01-06,West,Haryana,Ghaziabad,Consumer,2,0.05,16262.47,3558.52
+PROD-0522,Wall Clock,Furniture,Furnishings,2025-12-23,West,Haryana,Bengaluru,Consumer,7,0.15,15637.72,2357.4
+PROD-0523,Cushion,Furniture,Furnishings,2025-01-04,South,Haryana,Chennai,Home Office,8,0.05,21193.08,4591.08
+PROD-0524,Copy Paper,Office Supplies,Paper,2025-10-18,Central,Maharashtra,Chennai,Corporate,8,0.0,17666.33,3446.12
+PROD-0525,Address Labels,Office Supplies,Labels,2025-09-25,South,Uttar Pradesh,Bengaluru,Home Office,2,0.0,6244.0,1380.04
+PROD-0526,Wall Clock,Furniture,Furnishings,2025-09-20,South,Gujarat,Ghaziabad,Consumer,8,0.1,14413.04,2013.91
+PROD-0527,Fax Machine,Technology,Machines,2025-06-05,Central,Gujarat,Gurugram,Consumer,5,0.15,1676.23,277.17
+PROD-0528,Sketch Pen,Office Supplies,Art,2025-03-06,South,Gujarat,Pune,Consumer,2,0.1,21308.41,2167.31
+PROD-0529,Business Phone,Technology,Phones,2025-03-31,South,Karnataka,Jaipur,Consumer,3,0.1,16530.02,3748.42
+PROD-0530,Cordless Phone,Technology,Phones,2025-02-13,West,Haryana,Mumbai,Home Office,3,0.05,14949.27,3684.0
+PROD-0531,Ring Binder,Office Supplies,Binders,2025-10-23,Central,Uttar Pradesh,Ghaziabad,Corporate,6,0.1,1500.0,322.48
+PROD-0532,Marker Set,Office Supplies,Art,2025-09-01,East,Haryana,Delhi,Corporate,4,0.15,9588.05,1374.45
+PROD-0533,Drawing Paper,Office Supplies,Art,2025-06-11,West,Gujarat,Bengaluru,Corporate,1,0.2,2569.5,430.35
+PROD-0534,Notebook,Office Supplies,Paper,2025-12-02,East,Rajasthan,Ghaziabad,Corporate,7,0.05,11608.55,2575.93
+PROD-0535,Business Phone,Technology,Phones,2025-01-05,West,Rajasthan,Mumbai,Home Office,2,0.0,447.24,81.09
+PROD-0536,Storage Box,Office Supplies,Storage,2025-01-18,East,Delhi,Noida,Consumer,1,0.0,15542.02,4423.67
+PROD-0537,Laptop,Technology,Computers,2025-12-03,West,Delhi,Jaipur,Corporate,3,0.05,22415.64,2413.43
+PROD-0538,File Cabinet,Office Supplies,Storage,2025-03-24,South,Uttar Pradesh,Pune,Corporate,2,0.0,7040.59,1025.81
+PROD-0539,Desk Lamp,Furniture,Furnishings,2025-09-09,Central,Maharashtra,Chennai,Corporate,4,0.05,15316.0,3075.49
+PROD-0540,Dining Chair,Furniture,Chairs,2025-05-13,South,Tamil Nadu,Delhi,Corporate,2,0.0,1016.29,195.98
+PROD-0541,Office Chair,Furniture,Chairs,2025-12-07,Central,Tamil Nadu,Jaipur,Corporate,7,0.1,6770.95,1682.84
+PROD-0542,Printer Paper,Office Supplies,Paper,2025-04-26,South,Rajasthan,Pune,Corporate,1,0.15,9702.93,662.28
+PROD-0543,Dining Chair,Furniture,Chairs,2025-10-01,South,Karnataka,Ghaziabad,Home Office,6,0.15,2149.35,438.67
+PROD-0544,Cushion,Furniture,Furnishings,2025-04-08,South,Tamil Nadu,Noida,Home Office,5,0.0,17442.67,3622.04
+PROD-0545,Ring Binder,Office Supplies,Binders,2025-01-19,West,Delhi,Chennai,Home Office,4,0.2,780.31,68.43
+PROD-0546,Drawing Paper,Office Supplies,Art,2025-08-19,Central,Haryana,Noida,Consumer,1,0.0,1070.51,143.91
+PROD-0547,Scanner,Technology,Machines,2025-12-14,Central,Maharashtra,Jaipur,Home Office,3,0.05,18565.13,4959.56
+PROD-0548,Cushion,Furniture,Furnishings,2025-01-24,Central,Gujarat,Noida,Corporate,4,0.05,17577.23,894.89
+PROD-0549,Tablet,Technology,Computers,2025-02-02,East,Delhi,Mumbai,Corporate,2,0.2,2987.37,596.98
+PROD-0550,Marker Set,Office Supplies,Art,2025-03-03,East,Rajasthan,Noida,Consumer,3,0.05,8141.51,1864.44
+PROD-0551,File Binder,Office Supplies,Binders,2025-03-28,Central,Maharashtra,Noida,Home Office,6,0.15,13902.18,1310.62
+PROD-0552,Laser Copier,Technology,Copiers,2025-01-09,Central,Gujarat,Ahmedabad,Home Office,8,0.0,2155.96,204.5
+PROD-0553,Ring Binder,Office Supplies,Binders,2025-03-15,East,Uttar Pradesh,Gurugram,Consumer,5,0.15,13148.71,1227.32
+PROD-0554,Office Copier,Technology,Copiers,2025-02-15,East,Delhi,Chennai,Consumer,5,0.0,8794.16,1665.86
+PROD-0555,USB Hub,Technology,Accessories,2025-09-17,East,Delhi,Ghaziabad,Home Office,4,0.05,11685.77,1322.26
+PROD-0556,Sketch Pen,Office Supplies,Art,2025-03-23,West,Gujarat,Bengaluru,Home Office,1,0.1,1492.59,162.9
+PROD-0557,Copy Paper,Office Supplies,Paper,2025-01-27,Central,Delhi,Mumbai,Home Office,3,0.0,4077.43,698.32
+PROD-0558,Shipping Labels,Office Supplies,Labels,2025-06-16,Central,Rajasthan,Mumbai,Consumer,7,0.1,5088.97,492.43
+PROD-0559,Desk Lamp,Furniture,Furnishings,2025-07-12,West,Maharashtra,Mumbai,Home Office,4,0.2,1977.21,270.64
+PROD-0560,File Binder,Office Supplies,Binders,2025-07-11,South,Karnataka,Bengaluru,Consumer,3,0.05,11524.84,2277.37
+PROD-0561,Dining Chair,Furniture,Chairs,2025-03-11,South,Karnataka,Pune,Home Office,2,0.15,21313.54,2800.01
+PROD-0562,Computer Table,Furniture,Tables,2025-10-11,East,Tamil Nadu,Jaipur,Corporate,4,0.2,2298.89,316.89
+PROD-0563,Cushion,Furniture,Furnishings,2025-05-07,East,Uttar Pradesh,Ahmedabad,Consumer,4,0.2,8283.3,699.78
+PROD-0564,Cushion,Furniture,Furnishings,2025-09-16,Central,Tamil Nadu,Jaipur,Consumer,1,0.15,10728.59,1548.62
+PROD-0565,Ergonomic Chair,Furniture,Chairs,2025-07-28,Central,Uttar Pradesh,Jaipur,Home Office,4,0.1,3447.89,340.61
+PROD-0566,Document Folder,Office Supplies,Binders,2025-08-24,West,Maharashtra,Bengaluru,Home Office,1,0.15,24414.06,5041.87
+PROD-0567,Printer Paper,Office Supplies,Paper,2025-02-06,South,Haryana,Pune,Home Office,7,0.1,22351.85,3675.92
+PROD-0568,Fax Machine,Technology,Machines,2025-04-17,Central,Rajasthan,Delhi,Consumer,2,0.1,15568.31,3277.85
+PROD-0569,File Cabinet,Office Supplies,Storage,2025-11-13,Central,Karnataka,Ghaziabad,Corporate,1,0.05,9234.44,1860.19
+PROD-0570,Ergonomic Chair,Furniture,Chairs,2025-09-02,South,Haryana,Pune,Consumer,4,0.05,18866.36,2332.07
+PROD-0571,Office Bookcase,Furniture,Bookcases,2025-08-20,South,Tamil Nadu,Gurugram,Corporate,8,0.0,12611.03,2112.86
+PROD-0572,Smartphone,Technology,Phones,2025-08-23,Central,Delhi,Ghaziabad,Corporate,2,0.05,2142.23,248.47
+PROD-0573,Dining Table,Furniture,Tables,2025-03-19,East,Tamil Nadu,Bengaluru,Corporate,4,0.0,13089.09,1613.78
+PROD-0574,Notebook,Office Supplies,Paper,2025-04-07,South,Haryana,Gurugram,Corporate,2,0.05,697.61,171.47
+PROD-0575,Mouse,Technology,Accessories,2025-10-31,South,Maharashtra,Pune,Consumer,8,0.2,11531.48,765.58
+PROD-0576,File Cabinet,Office Supplies,Storage,2025-01-25,East,Gujarat,Ghaziabad,Consumer,3,0.15,8925.05,2192.84
+PROD-0577,Desktop Computer,Technology,Computers,2025-05-02,West,Gujarat,Bengaluru,Consumer,2,0.1,1172.61,204.35
+PROD-0578,Ergonomic Chair,Furniture,Chairs,2025-06-12,East,Gujarat,Noida,Consumer,6,0.15,3826.41,601.59
+PROD-0579,Sketch Pen,Office Supplies,Art,2025-08-23,South,Gujarat,Jaipur,Corporate,6,0.2,4027.92,947.05
+PROD-0580,Tablet,Technology,Computers,2025-08-15,East,Delhi,Pune,Consumer,6,0.15,17275.3,4038.74
+PROD-0581,Address Labels,Office Supplies,Labels,2025-08-17,East,Karnataka,Pune,Consumer,6,0.0,2448.16,494.62
+PROD-0582,Ergonomic Chair,Furniture,Chairs,2025-08-17,South,Uttar Pradesh,Bengaluru,Corporate,2,0.15,24399.61,2045.19
+PROD-0583,Wall Clock,Furniture,Furnishings,2025-07-17,West,Delhi,Mumbai,Home Office,6,0.1,452.94,56.19
+PROD-0584,Marker Set,Office Supplies,Art,2025-05-28,West,Maharashtra,Gurugram,Home Office,3,0.15,20170.97,3980.31
+PROD-0585,Conference Table,Furniture,Tables,2025-06-05,Central,Haryana,Noida,Consumer,8,0.2,24711.3,5864.68
+PROD-0586,File Cabinet,Office Supplies,Storage,2025-03-31,West,Gujarat,Chennai,Corporate,8,0.05,17799.64,1687.83
+PROD-0587,Storage Bookcase,Furniture,Bookcases,2025-06-05,Central,Maharashtra,Pune,Corporate,8,0.15,14048.13,1267.29
+PROD-0588,Laser Copier,Technology,Copiers,2025-12-01,East,Uttar Pradesh,Noida,Corporate,5,0.15,10516.35,2473.38
+PROD-0589,Printer Paper,Office Supplies,Paper,2025-07-05,West,Delhi,Bengaluru,Home Office,8,0.1,14204.53,2646.29
+PROD-0590,Printer,Technology,Machines,2025-05-13,East,Rajasthan,Ghaziabad,Consumer,3,0.05,14604.11,1802.5
+PROD-0591,File Cabinet,Office Supplies,Storage,2025-11-22,Central,Karnataka,Ghaziabad,Consumer,6,0.1,1360.57,223.35
+PROD-0592,Tablet,Technology,Computers,2025-06-15,South,Delhi,Chennai,Home Office,6,0.1,20696.53,2195.45
+PROD-0593,Ring Binder,Office Supplies,Binders,2025-03-12,East,Delhi,Mumbai,Consumer,5,0.15,9419.4,1224.98
+PROD-0594,Desktop Computer,Technology,Computers,2025-10-14,East,Uttar Pradesh,Jaipur,Corporate,2,0.0,10521.05,832.65
+PROD-0595,Storage Box,Office Supplies,Storage,2025-08-15,Central,Karnataka,Ghaziabad,Home Office,6,0.1,4429.35,227.98
+PROD-0596,Dining Table,Furniture,Tables,2025-03-06,Central,Delhi,Delhi,Corporate,4,0.0,3385.92,528.88
+PROD-0597,Copy Paper,Office Supplies,Paper,2025-02-25,West,Delhi,Pune,Consumer,1,0.2,19857.42,3150.09
+PROD-0598,Storage Bookcase,Furniture,Bookcases,2025-01-06,East,Maharashtra,Bengaluru,Consumer,2,0.2,19591.91,1588.52
+PROD-0599,Computer Table,Furniture,Tables,2025-05-23,East,Delhi,Noida,Home Office,6,0.2,8902.25,1746.27
+PROD-0600,Computer Table,Furniture,Tables,2025-04-09,Central,Karnataka,Chennai,Home Office,5,0.2,4418.57,180.57
+PROD-0601,Plastic Storage,Office Supplies,Storage,2025-10-29,South,Haryana,Ahmedabad,Consumer,3,0.0,11075.7,1054.54
+PROD-0602,Laptop,Technology,Computers,2025-02-27,West,Rajasthan,Pune,Home Office,6,0.0,3221.84,579.71
+PROD-0603,Smartphone,Technology,Phones,2025-06-17,South,Tamil Nadu,Mumbai,Home Office,8,0.1,3025.71,447.24
+PROD-0604,File Cabinet,Office Supplies,Storage,2025-04-07,South,Maharashtra,Delhi,Home Office,2,0.15,22384.65,5418.31
+PROD-0605,Notebook,Office Supplies,Paper,2025-08-13,Central,Maharashtra,Noida,Corporate,2,0.15,3112.56,397.26
+PROD-0606,Wood Bookcase,Furniture,Bookcases,2025-11-01,South,Gujarat,Ahmedabad,Corporate,7,0.15,3200.64,629.26
+PROD-0607,File Labels,Office Supplies,Labels,2025-09-06,South,Tamil Nadu,Jaipur,Consumer,5,0.15,3812.25,249.54
+PROD-0608,Desktop Computer,Technology,Computers,2025-02-20,East,Haryana,Gurugram,Home Office,1,0.15,20783.26,3878.11
+PROD-0609,File Binder,Office Supplies,Binders,2025-11-15,West,Karnataka,Pune,Home Office,2,0.2,19040.26,3684.56
+PROD-0610,Drawing Paper,Office Supplies,Art,2025-05-14,Central,Haryana,Noida,Corporate,6,0.2,20265.62,3026.14
+PROD-0611,File Cabinet,Office Supplies,Storage,2025-08-15,South,Maharashtra,Jaipur,Corporate,8,0.05,1044.13,187.64
+PROD-0612,Storage Bookcase,Furniture,Bookcases,2025-07-19,West,Tamil Nadu,Chennai,Consumer,8,0.2,19135.68,3348.84
+PROD-0613,Cordless Phone,Technology,Phones,2025-05-15,South,Gujarat,Bengaluru,Consumer,8,0.15,14837.47,2575.78
+PROD-0614,Office Chair,Furniture,Chairs,2025-07-07,South,Haryana,Noida,Corporate,6,0.2,20267.4,919.73
+PROD-0615,File Cabinet,Office Supplies,Storage,2025-06-29,South,Delhi,Noida,Corporate,1,0.05,16581.81,1711.62
+PROD-0616,Wood Bookcase,Furniture,Bookcases,2025-01-11,West,Gujarat,Delhi,Home Office,6,0.15,1078.83,176.08
+PROD-0617,Address Labels,Office Supplies,Labels,2025-06-12,West,Delhi,Mumbai,Corporate,7,0.1,14323.29,2489.69
+PROD-0618,Shipping Labels,Office Supplies,Labels,2025-06-23,East,Tamil Nadu,Noida,Home Office,3,0.1,15428.47,4059.56
+PROD-0619,Office Bookcase,Furniture,Bookcases,2025-01-25,Central,Delhi,Gurugram,Corporate,5,0.15,24906.26,5316.94
+PROD-0620,Printer Paper,Office Supplies,Paper,2025-09-29,South,Gujarat,Ahmedabad,Home Office,8,0.1,10763.58,2411.27
+PROD-0621,Keyboard,Technology,Accessories,2025-08-01,East,Uttar Pradesh,Chennai,Consumer,7,0.2,6393.93,835.34
+PROD-0622,Laser Copier,Technology,Copiers,2025-12-05,West,Uttar Pradesh,Chennai,Consumer,8,0.2,6808.21,1373.81
+PROD-0623,Sketch Pen,Office Supplies,Art,2025-05-04,West,Rajasthan,Noida,Home Office,3,0.1,18698.87,4392.88
+PROD-0624,Wall Clock,Furniture,Furnishings,2025-05-27,East,Delhi,Ghaziabad,Consumer,3,0.2,6522.7,568.95
+PROD-0625,Dining Table,Furniture,Tables,2025-08-26,Central,Karnataka,Ghaziabad,Corporate,8,0.15,14061.65,1858.66
+PROD-0626,Dining Chair,Furniture,Chairs,2025-05-23,West,Uttar Pradesh,Delhi,Consumer,3,0.0,16160.7,4701.9
+PROD-0627,File Labels,Office Supplies,Labels,2025-02-02,East,Karnataka,Noida,Home Office,7,0.0,22434.82,3347.81
+PROD-0628,Printer,Technology,Machines,2025-09-25,Central,Rajasthan,Bengaluru,Home Office,5,0.0,12486.81,1367.55
+PROD-0629,Office Copier,Technology,Copiers,2025-05-01,South,Tamil Nadu,Ahmedabad,Corporate,7,0.0,5567.51,522.17
+PROD-0630,Cordless Phone,Technology,Phones,2025-10-01,West,Tamil Nadu,Mumbai,Corporate,6,0.0,17535.5,2264.23
+PROD-0631,Office Bookcase,Furniture,Bookcases,2025-07-08,Central,Karnataka,Pune,Home Office,5,0.2,673.69,31.64
+PROD-0632,Plastic Storage,Office Supplies,Storage,2025-12-25,East,Tamil Nadu,Ahmedabad,Consumer,6,0.0,22593.45,4151.04
+PROD-0633,File Cabinet,Office Supplies,Storage,2025-02-16,South,Haryana,Delhi,Corporate,4,0.05,7540.96,1998.54
+PROD-0634,Wall Clock,Furniture,Furnishings,2025-07-31,South,Delhi,Bengaluru,Corporate,6,0.0,17977.04,4603.92
+PROD-0635,Fax Machine,Technology,Machines,2025-06-17,East,Tamil Nadu,Ghaziabad,Consumer,8,0.0,17425.97,3665.43
+PROD-0636,Document Folder,Office Supplies,Binders,2025-06-06,East,Haryana,Bengaluru,Corporate,6,0.0,14458.86,1293.43
+PROD-0637,File Binder,Office Supplies,Binders,2025-03-30,South,Maharashtra,Ahmedabad,Corporate,6,0.05,20018.29,1352.13
+PROD-0638,Desktop Computer,Technology,Computers,2025-01-12,East,Uttar Pradesh,Ahmedabad,Home Office,4,0.15,22685.09,1919.87
+PROD-0639,File Labels,Office Supplies,Labels,2025-03-18,Central,Uttar Pradesh,Chennai,Corporate,2,0.05,23957.12,6527.6
+PROD-0640,Sketch Pen,Office Supplies,Art,2025-04-25,West,Haryana,Ghaziabad,Corporate,4,0.1,4885.02,536.33
+PROD-0641,Dining Table,Furniture,Tables,2025-12-13,Central,Gujarat,Pune,Consumer,4,0.15,10545.53,2224.04
+PROD-0642,Laser Copier,Technology,Copiers,2025-07-09,South,Haryana,Mumbai,Home Office,8,0.15,2280.61,161.48
+PROD-0643,Drawing Paper,Office Supplies,Art,2025-11-02,South,Karnataka,Jaipur,Corporate,5,0.2,1965.43,101.71
+PROD-0644,Fax Machine,Technology,Machines,2025-01-24,West,Rajasthan,Ghaziabad,Home Office,1,0.2,6453.37,749.8
+PROD-0645,Dining Table,Furniture,Tables,2025-03-28,South,Haryana,Ghaziabad,Corporate,8,0.15,23268.62,1641.2
+PROD-0646,Wood Bookcase,Furniture,Bookcases,2025-03-07,West,Gujarat,Pune,Home Office,8,0.1,21811.24,4651.47
+PROD-0647,File Labels,Office Supplies,Labels,2025-08-12,East,Tamil Nadu,Delhi,Consumer,3,0.15,7991.24,1636.45
+PROD-0648,Office Chair,Furniture,Chairs,2025-04-04,West,Delhi,Jaipur,Consumer,1,0.05,11835.65,2546.63
+PROD-0649,Plastic Storage,Office Supplies,Storage,2025-10-15,East,Delhi,Bengaluru,Consumer,8,0.0,11525.33,3013.41
+PROD-0650,Wood Bookcase,Furniture,Bookcases,2025-03-28,Central,Maharashtra,Ahmedabad,Consumer,5,0.2,14146.7,1166.81
+PROD-0651,Cushion,Furniture,Furnishings,2025-02-18,Central,Rajasthan,Ghaziabad,Consumer,6,0.0,795.16,118.12
+PROD-0652,Cushion,Furniture,Furnishings,2025-12-04,Central,Rajasthan,Delhi,Home Office,8,0.1,11433.28,2043.08
+PROD-0653,Color Copier,Technology,Copiers,2025-10-19,South,Rajasthan,Delhi,Home Office,3,0.0,5402.47,1352.72
+PROD-0654,Desk Lamp,Furniture,Furnishings,2025-07-24,East,Maharashtra,Ahmedabad,Corporate,5,0.15,4573.57,281.06
+PROD-0655,Ring Binder,Office Supplies,Binders,2025-06-02,East,Rajasthan,Noida,Corporate,8,0.1,20057.35,4981.05
+PROD-0656,Laptop,Technology,Computers,2025-08-17,Central,Haryana,Bengaluru,Home Office,7,0.2,11989.53,1919.14
+PROD-0657,Cushion,Furniture,Furnishings,2025-08-07,East,Maharashtra,Jaipur,Home Office,2,0.1,1154.89,304.87
+PROD-0658,Printer,Technology,Machines,2025-05-29,East,Gujarat,Mumbai,Home Office,8,0.15,11018.28,1171.61
+PROD-0659,Plastic Storage,Office Supplies,Storage,2025-01-25,West,Haryana,Noida,Corporate,2,0.2,22944.96,1411.72
+PROD-0660,Scanner,Technology,Machines,2025-07-01,West,Maharashtra,Ghaziabad,Corporate,5,0.2,14701.36,635.89
+PROD-0661,Dining Chair,Furniture,Chairs,2025-12-27,West,Gujarat,Bengaluru,Consumer,5,0.15,7951.57,1617.65
+PROD-0662,Conference Table,Furniture,Tables,2025-11-06,Central,Uttar Pradesh,Ahmedabad,Consumer,5,0.0,21809.65,3455.73
+PROD-0663,Computer Table,Furniture,Tables,2025-09-02,South,Rajasthan,Ahmedabad,Corporate,8,0.2,17341.38,3211.32
+PROD-0664,Conference Table,Furniture,Tables,2025-01-08,East,Uttar Pradesh,Mumbai,Corporate,4,0.0,2931.03,656.57
+PROD-0665,Tablet,Technology,Computers,2025-05-04,South,Tamil Nadu,Ghaziabad,Corporate,7,0.2,21075.93,1647.78
+PROD-0666,Copy Paper,Office Supplies,Paper,2025-03-27,West,Uttar Pradesh,Jaipur,Home Office,3,0.15,18508.71,4577.61
+PROD-0667,Dining Table,Furniture,Tables,2025-10-19,West,Haryana,Jaipur,Home Office,7,0.0,1415.42,107.1
+PROD-0668,Fax Machine,Technology,Machines,2025-10-11,West,Karnataka,Delhi,Home Office,5,0.15,1069.88,155.98
+PROD-0669,Cushion,Furniture,Furnishings,2025-06-11,Central,Tamil Nadu,Gurugram,Home Office,2,0.15,6806.04,1575.21
+PROD-0670,Drawing Paper,Office Supplies,Art,2025-08-12,West,Karnataka,Chennai,Consumer,1,0.05,4159.14,661.07
+PROD-0671,USB Hub,Technology,Accessories,2025-12-03,West,Haryana,Bengaluru,Corporate,8,0.1,3409.29,708.02
+PROD-0672,Dining Table,Furniture,Tables,2025-12-20,East,Tamil Nadu,Noida,Corporate,2,0.05,16726.35,1482.9
+PROD-0673,Storage Box,Office Supplies,Storage,2025-04-18,South,Maharashtra,Ghaziabad,Home Office,1,0.1,24981.64,6075.63
+PROD-0674,Dining Chair,Furniture,Chairs,2025-08-09,West,Gujarat,Bengaluru,Corporate,2,0.0,15496.44,2952.0
+PROD-0675,Wood Bookcase,Furniture,Bookcases,2025-12-20,Central,Delhi,Gurugram,Home Office,2,0.15,17704.16,3758.32
+PROD-0676,Ergonomic Chair,Furniture,Chairs,2025-02-23,East,Gujarat,Jaipur,Home Office,3,0.05,15803.66,4169.94
+PROD-0677,Copy Paper,Office Supplies,Paper,2025-11-28,East,Tamil Nadu,Ahmedabad,Consumer,6,0.05,8465.0,649.34
+PROD-0678,Wall Clock,Furniture,Furnishings,2025-05-27,West,Rajasthan,Mumbai,Consumer,3,0.1,2268.06,467.04
+PROD-0679,Laser Copier,Technology,Copiers,2025-03-12,South,Uttar Pradesh,Jaipur,Consumer,7,0.15,10423.22,2432.14
+PROD-0680,Office Chair,Furniture,Chairs,2025-06-23,West,Uttar Pradesh,Ghaziabad,Home Office,6,0.05,10131.02,1525.65
+PROD-0681,Office Bookcase,Furniture,Bookcases,2025-07-25,Central,Gujarat,Chennai,Home Office,5,0.1,18080.54,4512.49
+PROD-0682,Wall Clock,Furniture,Furnishings,2025-11-26,West,Rajasthan,Ahmedabad,Consumer,4,0.2,22206.36,4389.49
+PROD-0683,Copy Paper,Office Supplies,Paper,2025-10-03,South,Karnataka,Noida,Home Office,6,0.05,9841.34,1683.97
+PROD-0684,USB Hub,Technology,Accessories,2025-06-24,East,Gujarat,Ahmedabad,Home Office,3,0.2,732.03,116.03
+PROD-0685,Dining Chair,Furniture,Chairs,2025-05-13,Central,Tamil Nadu,Bengaluru,Consumer,6,0.0,3226.75,523.33
+PROD-0686,Fax Machine,Technology,Machines,2025-11-18,East,Haryana,Chennai,Home Office,4,0.1,8855.88,1727.41
+PROD-0687,Dining Chair,Furniture,Chairs,2025-09-22,East,Haryana,Ahmedabad,Consumer,4,0.1,20597.64,3032.38
+PROD-0688,Dining Chair,Furniture,Chairs,2025-03-08,West,Haryana,Pune,Home Office,8,0.0,5487.39,780.98
+PROD-0689,Marker Set,Office Supplies,Art,2025-12-19,East,Maharashtra,Jaipur,Home Office,8,0.15,18333.17,3988.56
+PROD-0690,Document Folder,Office Supplies,Binders,2025-09-20,East,Rajasthan,Noida,Home Office,2,0.15,17407.6,2490.82
+PROD-0691,Copy Paper,Office Supplies,Paper,2025-07-09,South,Rajasthan,Pune,Corporate,5,0.05,1151.01,86.86
+PROD-0692,Copy Paper,Office Supplies,Paper,2025-03-14,East,Maharashtra,Jaipur,Consumer,7,0.1,1358.98,333.0
+PROD-0693,Wood Bookcase,Furniture,Bookcases,2025-01-23,South,Haryana,Jaipur,Home Office,7,0.1,12107.23,2086.04
+PROD-0694,Desktop Computer,Technology,Computers,2025-09-16,South,Delhi,Gurugram,Home Office,8,0.15,19077.72,1414.78
+PROD-0695,Color Copier,Technology,Copiers,2025-04-30,West,Gujarat,Noida,Consumer,7,0.0,8574.1,2482.37
+PROD-0696,Business Phone,Technology,Phones,2025-11-19,Central,Karnataka,Gurugram,Home Office,5,0.0,14091.95,2973.1
+PROD-0697,Business Phone,Technology,Phones,2025-09-25,Central,Maharashtra,Delhi,Corporate,4,0.2,18801.38,4124.51
+PROD-0698,Computer Table,Furniture,Tables,2025-10-24,West,Uttar Pradesh,Jaipur,Consumer,8,0.2,2253.5,363.65
+PROD-0699,Sketch Pen,Office Supplies,Art,2025-08-01,Central,Delhi,Noida,Home Office,1,0.1,21512.26,2817.08
+PROD-0700,Wood Bookcase,Furniture,Bookcases,2025-04-04,West,Maharashtra,Delhi,Home Office,5,0.05,19242.37,2316.08
+PROD-0701,Ring Binder,Office Supplies,Binders,2025-01-30,South,Gujarat,Ahmedabad,Consumer,5,0.1,9840.0,758.21
+PROD-0702,Conference Table,Furniture,Tables,2025-11-02,Central,Gujarat,Delhi,Corporate,4,0.2,12400.54,1450.98
+PROD-0703,File Labels,Office Supplies,Labels,2025-02-03,Central,Gujarat,Chennai,Home Office,8,0.05,868.32,229.68
+PROD-0704,Smartphone,Technology,Phones,2025-10-12,East,Maharashtra,Bengaluru,Home Office,3,0.15,7719.63,1059.68
+PROD-0705,Computer Table,Furniture,Tables,2025-08-05,South,Maharashtra,Delhi,Consumer,8,0.15,1188.53,293.25
+PROD-0706,Plastic Storage,Office Supplies,Storage,2025-05-09,South,Uttar Pradesh,Ghaziabad,Home Office,7,0.05,24981.16,4658.37
+PROD-0707,Printer,Technology,Machines,2025-06-03,South,Haryana,Mumbai,Home Office,2,0.0,9973.33,2569.37
+PROD-0708,USB Hub,Technology,Accessories,2025-06-25,South,Rajasthan,Mumbai,Corporate,5,0.15,24494.06,2462.03
+PROD-0709,Keyboard,Technology,Accessories,2025-12-21,Central,Uttar Pradesh,Ghaziabad,Corporate,3,0.0,16214.12,3278.44
+PROD-0710,Color Copier,Technology,Copiers,2025-10-03,West,Delhi,Bengaluru,Corporate,2,0.0,19714.54,3640.53
+PROD-0711,Mouse,Technology,Accessories,2025-04-01,West,Uttar Pradesh,Mumbai,Home Office,1,0.1,3250.38,830.98
+PROD-0712,Storage Bookcase,Furniture,Bookcases,2025-12-30,East,Karnataka,Jaipur,Corporate,6,0.2,4909.07,810.23
+PROD-0713,Office Bookcase,Furniture,Bookcases,2025-12-27,South,Tamil Nadu,Ghaziabad,Home Office,4,0.15,327.31,21.63
+PROD-0714,Conference Table,Furniture,Tables,2025-10-29,East,Gujarat,Mumbai,Home Office,3,0.05,18687.44,2039.94
+PROD-0715,Storage Bookcase,Furniture,Bookcases,2025-10-14,Central,Rajasthan,Ahmedabad,Corporate,8,0.15,198.58,35.49
+PROD-0716,Printer Paper,Office Supplies,Paper,2025-09-23,East,Uttar Pradesh,Pune,Corporate,8,0.2,12465.03,2390.85
+PROD-0717,Color Copier,Technology,Copiers,2025-01-03,Central,Karnataka,Ahmedabad,Consumer,7,0.0,4986.01,1346.35
+PROD-0718,Conference Table,Furniture,Tables,2025-06-18,West,Uttar Pradesh,Gurugram,Home Office,5,0.0,1711.68,97.51
+PROD-0719,Storage Box,Office Supplies,Storage,2025-02-25,South,Karnataka,Noida,Home Office,8,0.1,6073.23,1410.91
+PROD-0720,Laser Copier,Technology,Copiers,2025-11-17,Central,Haryana,Bengaluru,Home Office,8,0.0,14536.52,4268.38
+PROD-0721,Conference Table,Furniture,Tables,2025-08-15,Central,Uttar Pradesh,Pune,Corporate,1,0.15,7641.56,431.6
+PROD-0722,Printer Paper,Office Supplies,Paper,2025-07-30,West,Tamil Nadu,Ahmedabad,Home Office,4,0.2,21634.88,911.29
+PROD-0723,Cordless Phone,Technology,Phones,2025-11-30,Central,Delhi,Delhi,Home Office,1,0.1,11433.81,2026.73
+PROD-0724,Business Phone,Technology,Phones,2025-04-10,West,Tamil Nadu,Ghaziabad,Consumer,3,0.1,15988.49,1997.97
+PROD-0725,Office Chair,Furniture,Chairs,2025-03-07,South,Gujarat,Gurugram,Home Office,5,0.2,14675.38,3403.93
+PROD-0726,Dining Table,Furniture,Tables,2025-06-08,East,Uttar Pradesh,Mumbai,Home Office,6,0.0,7382.94,1324.65
+PROD-0727,Cordless Phone,Technology,Phones,2025-06-26,South,Karnataka,Jaipur,Home Office,4,0.05,24416.29,5713.42
+PROD-0728,Office Copier,Technology,Copiers,2025-12-21,South,Haryana,Bengaluru,Consumer,6,0.2,21322.42,4959.87
+PROD-0729,Desk Lamp,Furniture,Furnishings,2025-09-11,West,Karnataka,Mumbai,Corporate,4,0.05,23010.85,4881.52
+PROD-0730,USB Hub,Technology,Accessories,2025-07-12,Central,Rajasthan,Delhi,Home Office,4,0.0,10097.77,1420.8
+PROD-0731,Dining Table,Furniture,Tables,2025-08-14,Central,Karnataka,Mumbai,Corporate,4,0.1,15838.66,869.2
+PROD-0732,Dining Table,Furniture,Tables,2025-03-31,Central,Maharashtra,Pune,Consumer,6,0.05,21211.22,1906.96
+PROD-0733,Dining Table,Furniture,Tables,2025-12-02,East,Rajasthan,Bengaluru,Home Office,2,0.05,8558.82,1026.67
+PROD-0734,Cushion,Furniture,Furnishings,2025-02-03,East,Haryana,Bengaluru,Corporate,2,0.05,3739.14,883.52
+PROD-0735,Office Copier,Technology,Copiers,2025-05-06,South,Maharashtra,Bengaluru,Consumer,1,0.2,19112.6,1487.35
+PROD-0736,Wood Bookcase,Furniture,Bookcases,2025-09-18,Central,Maharashtra,Chennai,Corporate,8,0.0,5349.55,1316.88
+PROD-0737,Scanner,Technology,Machines,2025-09-13,West,Tamil Nadu,Jaipur,Corporate,8,0.1,4598.11,750.56
+PROD-0738,Office Copier,Technology,Copiers,2025-10-26,East,Haryana,Mumbai,Corporate,1,0.05,5298.91,820.64
+PROD-0739,Drawing Paper,Office Supplies,Art,2025-03-22,Central,Gujarat,Jaipur,Home Office,6,0.0,6475.05,541.2
+PROD-0740,Document Folder,Office Supplies,Binders,2025-01-22,West,Haryana,Ahmedabad,Corporate,8,0.1,12879.71,1814.4
+PROD-0741,File Cabinet,Office Supplies,Storage,2025-07-15,Central,Rajasthan,Noida,Corporate,1,0.05,4612.21,510.05
+PROD-0742,Fax Machine,Technology,Machines,2025-11-26,Central,Rajasthan,Delhi,Home Office,2,0.05,19678.95,1394.69
+PROD-0743,Wood Bookcase,Furniture,Bookcases,2025-12-12,East,Gujarat,Delhi,Corporate,6,0.1,6363.09,559.28
+PROD-0744,File Cabinet,Office Supplies,Storage,2025-07-27,East,Haryana,Mumbai,Consumer,1,0.2,11879.3,2825.55
+PROD-0745,Laptop,Technology,Computers,2025-04-30,Central,Rajasthan,Mumbai,Corporate,8,0.15,18104.38,2080.02
+PROD-0746,Laser Copier,Technology,Copiers,2025-08-13,East,Gujarat,Delhi,Corporate,8,0.0,21345.66,3066.84
+PROD-0747,Mouse,Technology,Accessories,2025-04-26,South,Rajasthan,Gurugram,Consumer,7,0.15,10729.13,2195.22
+PROD-0748,Smartphone,Technology,Phones,2025-03-20,West,Haryana,Mumbai,Corporate,6,0.2,14269.54,3178.55
+PROD-0749,Desk Lamp,Furniture,Furnishings,2025-09-01,South,Delhi,Ghaziabad,Consumer,2,0.15,8321.71,1483.66
+PROD-0750,Printer,Technology,Machines,2025-01-17,West,Gujarat,Mumbai,Consumer,8,0.05,816.94,52.29
+PROD-0751,Address Labels,Office Supplies,Labels,2025-08-21,West,Haryana,Ghaziabad,Consumer,1,0.0,9311.01,865.52
+PROD-0752,Wall Clock,Furniture,Furnishings,2025-02-05,East,Gujarat,Ahmedabad,Home Office,7,0.05,23884.15,1871.54
+PROD-0753,Laser Copier,Technology,Copiers,2025-11-06,West,Gujarat,Mumbai,Consumer,5,0.2,14749.18,2704.33
+PROD-0754,Desk Lamp,Furniture,Furnishings,2025-07-24,West,Tamil Nadu,Gurugram,Consumer,4,0.2,13217.53,2852.98
+PROD-0755,Cordless Phone,Technology,Phones,2025-11-27,East,Haryana,Mumbai,Consumer,8,0.1,8767.53,1166.04
+PROD-0756,Color Copier,Technology,Copiers,2025-07-16,Central,Karnataka,Ghaziabad,Corporate,3,0.0,17508.27,2598.01
+PROD-0757,Scanner,Technology,Machines,2025-12-08,West,Delhi,Bengaluru,Consumer,2,0.05,17496.39,4607.24
+PROD-0758,Office Bookcase,Furniture,Bookcases,2025-08-19,Central,Delhi,Jaipur,Corporate,3,0.2,6431.25,314.66
+PROD-0759,Sketch Pen,Office Supplies,Art,2025-07-23,East,Rajasthan,Jaipur,Corporate,1,0.0,416.82,94.73
+PROD-0760,Copy Paper,Office Supplies,Paper,2025-10-08,South,Maharashtra,Ghaziabad,Consumer,4,0.15,17882.5,1292.98
+PROD-0761,Smartphone,Technology,Phones,2025-05-31,Central,Gujarat,Ghaziabad,Corporate,2,0.15,13436.15,1052.0
+PROD-0762,Ring Binder,Office Supplies,Binders,2025-01-18,Central,Haryana,Pune,Corporate,4,0.0,11135.14,2885.4
+PROD-0763,Office Chair,Furniture,Chairs,2025-07-13,East,Delhi,Delhi,Corporate,4,0.1,23231.19,5795.49
+PROD-0764,Dining Chair,Furniture,Chairs,2025-04-09,East,Maharashtra,Delhi,Corporate,2,0.0,5631.11,1403.45
+PROD-0765,Cordless Phone,Technology,Phones,2025-06-15,West,Delhi,Mumbai,Consumer,4,0.2,15673.13,1865.3
+PROD-0766,Office Bookcase,Furniture,Bookcases,2025-03-30,East,Tamil Nadu,Mumbai,Consumer,1,0.1,10143.17,483.79
+PROD-0767,USB Hub,Technology,Accessories,2025-11-16,West,Delhi,Chennai,Home Office,6,0.05,1241.88,180.24
+PROD-0768,Wood Bookcase,Furniture,Bookcases,2025-11-04,East,Rajasthan,Ghaziabad,Home Office,6,0.15,24538.18,4577.69
+PROD-0769,USB Hub,Technology,Accessories,2025-09-04,West,Haryana,Chennai,Home Office,2,0.2,8477.36,1885.54
+PROD-0770,Tablet,Technology,Computers,2025-10-28,Central,Gujarat,Mumbai,Home Office,1,0.2,5930.26,1137.35
+PROD-0771,Document Folder,Office Supplies,Binders,2025-02-10,East,Haryana,Mumbai,Home Office,1,0.15,3568.25,376.56
+PROD-0772,Computer Table,Furniture,Tables,2025-11-03,South,Uttar Pradesh,Chennai,Corporate,8,0.1,18520.5,1392.93
+PROD-0773,Keyboard,Technology,Accessories,2025-04-28,East,Karnataka,Gurugram,Corporate,6,0.05,8666.8,1521.77
+PROD-0774,Keyboard,Technology,Accessories,2025-08-15,East,Uttar Pradesh,Ghaziabad,Consumer,1,0.15,1755.73,100.73
+PROD-0775,Office Chair,Furniture,Chairs,2025-10-31,West,Gujarat,Ghaziabad,Home Office,4,0.0,6022.31,942.85
+PROD-0776,Dining Table,Furniture,Tables,2025-04-01,East,Gujarat,Jaipur,Consumer,4,0.2,7682.05,996.01
+PROD-0777,Marker Set,Office Supplies,Art,2025-03-27,West,Maharashtra,Jaipur,Consumer,8,0.2,11118.2,1799.8
+PROD-0778,Sketch Pen,Office Supplies,Art,2025-06-03,West,Gujarat,Jaipur,Corporate,3,0.05,13888.38,1508.37
+PROD-0779,Shipping Labels,Office Supplies,Labels,2025-09-04,East,Uttar Pradesh,Delhi,Home Office,2,0.15,8430.87,708.95
+PROD-0780,Mouse,Technology,Accessories,2025-07-27,South,Delhi,Ahmedabad,Consumer,7,0.1,23516.08,3090.21
+PROD-0781,Cushion,Furniture,Furnishings,2025-03-25,South,Tamil Nadu,Bengaluru,Home Office,4,0.1,19109.33,4176.07
+PROD-0782,Wall Clock,Furniture,Furnishings,2025-05-07,Central,Maharashtra,Pune,Home Office,4,0.1,12021.48,2247.59
+PROD-0783,File Binder,Office Supplies,Binders,2025-05-07,West,Haryana,Gurugram,Consumer,3,0.0,456.58,96.38
+PROD-0784,Laptop,Technology,Computers,2025-03-26,West,Gujarat,Ahmedabad,Home Office,7,0.1,6433.85,1014.27
+PROD-0785,Ergonomic Chair,Furniture,Chairs,2025-10-21,West,Gujarat,Delhi,Consumer,6,0.1,20383.57,4351.16
+PROD-0786,Copy Paper,Office Supplies,Paper,2025-02-05,East,Maharashtra,Bengaluru,Consumer,7,0.1,13195.31,2770.15
+PROD-0787,Desktop Computer,Technology,Computers,2025-09-07,East,Maharashtra,Mumbai,Consumer,3,0.0,12639.95,2056.08
+PROD-0788,Desktop Computer,Technology,Computers,2025-05-13,East,Delhi,Pune,Consumer,7,0.2,11102.15,686.55
+PROD-0789,Notebook,Office Supplies,Paper,2025-02-02,Central,Uttar Pradesh,Delhi,Corporate,6,0.05,887.22,142.84
+PROD-0790,Office Chair,Furniture,Chairs,2025-04-19,South,Tamil Nadu,Jaipur,Corporate,1,0.2,9485.3,2251.61
+PROD-0791,Color Copier,Technology,Copiers,2025-07-09,West,Haryana,Gurugram,Consumer,6,0.05,24986.21,6770.9
+PROD-0792,Storage Box,Office Supplies,Storage,2025-01-02,East,Uttar Pradesh,Gurugram,Consumer,8,0.15,21782.96,4282.73
+PROD-0793,USB Hub,Technology,Accessories,2025-05-08,East,Uttar Pradesh,Bengaluru,Consumer,6,0.15,11380.16,1728.87
+PROD-0794,Keyboard,Technology,Accessories,2025-06-16,Central,Rajasthan,Ahmedabad,Corporate,8,0.15,5953.93,759.34
+PROD-0795,Business Phone,Technology,Phones,2025-07-17,Central,Maharashtra,Jaipur,Consumer,5,0.05,15238.27,3871.91
+PROD-0796,File Labels,Office Supplies,Labels,2025-03-28,East,Karnataka,Mumbai,Consumer,8,0.15,23883.02,4378.03
+PROD-0797,Smartphone,Technology,Phones,2025-08-11,South,Karnataka,Pune,Home Office,1,0.1,4131.85,1025.1
+PROD-0798,Printer Paper,Office Supplies,Paper,2025-03-11,Central,Rajasthan,Ahmedabad,Home Office,8,0.1,2397.48,578.24
+PROD-0799,Office Copier,Technology,Copiers,2025-11-25,South,Delhi,Noida,Consumer,7,0.05,20239.92,2206.86
+PROD-0800,Address Labels,Office Supplies,Labels,2025-03-01,Central,Gujarat,Delhi,Home Office,6,0.1,3316.32,861.13
+PROD-0801,Laptop,Technology,Computers,2025-08-05,East,Delhi,Ahmedabad,Consumer,6,0.05,19316.33,3301.95
+PROD-0802,Color Copier,Technology,Copiers,2025-03-16,East,Gujarat,Ghaziabad,Home Office,5,0.15,20954.83,3918.47
+PROD-0803,Business Phone,Technology,Phones,2025-06-13,West,Karnataka,Jaipur,Corporate,5,0.0,12634.09,1495.41
+PROD-0804,Laser Copier,Technology,Copiers,2025-06-20,East,Uttar Pradesh,Ghaziabad,Corporate,3,0.05,20722.93,5158.28
+PROD-0805,Color Copier,Technology,Copiers,2025-12-04,West,Tamil Nadu,Bengaluru,Corporate,3,0.2,24777.92,2935.12
+PROD-0806,Printer Paper,Office Supplies,Paper,2025-05-25,West,Delhi,Ghaziabad,Corporate,5,0.05,17454.95,3735.59
+PROD-0807,Business Phone,Technology,Phones,2025-06-05,West,Gujarat,Ghaziabad,Consumer,8,0.2,16417.65,1108.39
+PROD-0808,Computer Table,Furniture,Tables,2025-11-30,East,Haryana,Ahmedabad,Home Office,1,0.2,9151.31,552.64
+PROD-0809,Office Chair,Furniture,Chairs,2025-07-02,South,Haryana,Ghaziabad,Home Office,8,0.0,4613.88,366.05
+PROD-0810,Laser Copier,Technology,Copiers,2025-01-18,East,Haryana,Noida,Corporate,2,0.15,6135.26,655.38
+PROD-0811,Color Copier,Technology,Copiers,2025-11-20,Central,Tamil Nadu,Chennai,Consumer,8,0.0,9277.98,734.42
+PROD-0812,Wall Clock,Furniture,Furnishings,2025-12-22,West,Gujarat,Gurugram,Consumer,2,0.05,19889.44,2758.48
+PROD-0813,Wood Bookcase,Furniture,Bookcases,2025-10-03,West,Delhi,Chennai,Home Office,3,0.0,10222.46,1517.52
+PROD-0814,Smartphone,Technology,Phones,2025-12-04,Central,Tamil Nadu,Bengaluru,Consumer,2,0.2,4639.5,830.67
+PROD-0815,Computer Table,Furniture,Tables,2025-04-16,Central,Delhi,Noida,Home Office,3,0.1,2332.35,551.78
+PROD-0816,Plastic Storage,Office Supplies,Storage,2025-03-29,Central,Gujarat,Chennai,Corporate,7,0.0,24431.01,2738.33
+PROD-0817,Cushion,Furniture,Furnishings,2025-06-10,Central,Uttar Pradesh,Mumbai,Consumer,6,0.2,15213.38,1247.01
+PROD-0818,Dining Table,Furniture,Tables,2025-04-21,South,Maharashtra,Gurugram,Corporate,3,0.05,15113.29,2842.03
+PROD-0819,Office Bookcase,Furniture,Bookcases,2025-07-15,West,Maharashtra,Chennai,Consumer,3,0.0,10091.48,2888.03
+PROD-0820,Storage Bookcase,Furniture,Bookcases,2025-12-23,East,Haryana,Ghaziabad,Corporate,4,0.2,17903.96,3069.88
+PROD-0821,Sketch Pen,Office Supplies,Art,2025-11-06,West,Delhi,Bengaluru,Home Office,4,0.0,2076.49,379.72
+PROD-0822,Office Bookcase,Furniture,Bookcases,2025-05-20,Central,Haryana,Mumbai,Corporate,3,0.05,21741.06,2445.68
+PROD-0823,Office Chair,Furniture,Chairs,2025-09-27,South,Gujarat,Chennai,Corporate,5,0.15,14782.35,928.37
+PROD-0824,Smartphone,Technology,Phones,2025-03-29,West,Tamil Nadu,Gurugram,Consumer,6,0.15,23670.78,1914.8
+PROD-0825,Printer Paper,Office Supplies,Paper,2025-09-20,South,Uttar Pradesh,Bengaluru,Home Office,3,0.05,16490.44,2266.86
+PROD-0826,Cushion,Furniture,Furnishings,2025-08-23,South,Gujarat,Ahmedabad,Home Office,3,0.1,11058.16,2484.28
+PROD-0827,Laptop,Technology,Computers,2025-11-22,Central,Delhi,Noida,Home Office,2,0.15,23694.25,4886.89
+PROD-0828,Office Chair,Furniture,Chairs,2025-10-22,West,Uttar Pradesh,Ahmedabad,Home Office,1,0.1,2251.94,382.12
+PROD-0829,Laptop,Technology,Computers,2025-09-12,Central,Haryana,Chennai,Home Office,2,0.2,10225.97,798.0
+PROD-0830,Document Folder,Office Supplies,Binders,2025-12-05,East,Maharashtra,Noida,Corporate,1,0.05,15243.23,3166.0
+PROD-0831,Wood Bookcase,Furniture,Bookcases,2025-08-05,South,Karnataka,Chennai,Consumer,8,0.1,9570.5,2518.85
+PROD-0832,File Cabinet,Office Supplies,Storage,2025-05-31,South,Uttar Pradesh,Jaipur,Home Office,5,0.2,5444.69,646.42
+PROD-0833,Notebook,Office Supplies,Paper,2025-01-04,South,Maharashtra,Ahmedabad,Corporate,8,0.1,8314.51,574.63
+PROD-0834,Dining Chair,Furniture,Chairs,2025-09-09,West,Delhi,Jaipur,Consumer,4,0.2,2255.88,495.62
+PROD-0835,Wood Bookcase,Furniture,Bookcases,2025-08-29,East,Gujarat,Noida,Corporate,7,0.1,9451.59,1336.24
+PROD-0836,Laser Copier,Technology,Copiers,2025-03-13,East,Delhi,Mumbai,Corporate,6,0.0,18715.21,2616.56
+PROD-0837,Dining Table,Furniture,Tables,2025-08-04,West,Gujarat,Noida,Corporate,6,0.05,22539.8,4636.97
+PROD-0838,File Labels,Office Supplies,Labels,2025-12-16,West,Maharashtra,Noida,Consumer,3,0.15,8223.46,1226.49
+PROD-0839,Conference Table,Furniture,Tables,2025-06-26,South,Haryana,Gurugram,Home Office,1,0.05,19219.52,1150.47
+PROD-0840,Wall Clock,Furniture,Furnishings,2025-05-29,East,Maharashtra,Mumbai,Corporate,5,0.15,12225.34,1163.2
+PROD-0841,Storage Bookcase,Furniture,Bookcases,2025-05-07,East,Karnataka,Gurugram,Home Office,7,0.0,5080.55,1144.58
+PROD-0842,Desktop Computer,Technology,Computers,2025-03-03,East,Haryana,Delhi,Home Office,3,0.1,10121.89,2711.04
+PROD-0843,Office Chair,Furniture,Chairs,2025-07-14,West,Tamil Nadu,Delhi,Home Office,7,0.05,13195.53,1321.82
+PROD-0844,Notebook,Office Supplies,Paper,2025-02-26,East,Rajasthan,Delhi,Consumer,5,0.1,9184.87,1883.88
+PROD-0845,Office Chair,Furniture,Chairs,2025-12-05,Central,Haryana,Ghaziabad,Corporate,6,0.15,5417.64,552.78
+PROD-0846,File Cabinet,Office Supplies,Storage,2025-06-05,East,Rajasthan,Bengaluru,Home Office,2,0.0,2557.65,564.58
+PROD-0847,Shipping Labels,Office Supplies,Labels,2025-11-06,West,Delhi,Noida,Consumer,6,0.1,6070.57,560.06
+PROD-0848,Printer,Technology,Machines,2025-01-22,Central,Rajasthan,Pune,Home Office,4,0.15,4944.25,1182.51
+PROD-0849,Document Folder,Office Supplies,Binders,2025-03-20,South,Rajasthan,Bengaluru,Corporate,1,0.15,3326.62,530.53
+PROD-0850,Cordless Phone,Technology,Phones,2025-02-04,East,Gujarat,Ghaziabad,Corporate,8,0.2,10562.25,2093.2
+PROD-0851,Ergonomic Chair,Furniture,Chairs,2025-04-08,Central,Maharashtra,Jaipur,Home Office,7,0.2,12451.39,2665.23
+PROD-0852,File Labels,Office Supplies,Labels,2025-07-25,East,Uttar Pradesh,Chennai,Corporate,5,0.0,5292.08,476.29
+PROD-0853,Scanner,Technology,Machines,2025-06-05,East,Karnataka,Delhi,Home Office,4,0.1,7514.64,1271.73
+PROD-0854,Wood Bookcase,Furniture,Bookcases,2025-11-24,South,Uttar Pradesh,Mumbai,Consumer,3,0.1,23559.84,5975.5
+PROD-0855,Smartphone,Technology,Phones,2025-11-29,South,Maharashtra,Ahmedabad,Home Office,6,0.1,15872.17,1873.34
+PROD-0856,Storage Box,Office Supplies,Storage,2025-11-17,South,Maharashtra,Pune,Consumer,1,0.05,20624.7,4557.82
+PROD-0857,Printer,Technology,Machines,2025-12-19,East,Tamil Nadu,Mumbai,Corporate,7,0.1,23649.56,5693.77
+PROD-0858,Document Folder,Office Supplies,Binders,2025-11-19,West,Rajasthan,Ghaziabad,Corporate,7,0.05,4017.69,887.23
+PROD-0859,Desk Lamp,Furniture,Furnishings,2025-08-24,West,Maharashtra,Pune,Consumer,3,0.05,20417.61,1885.65
+PROD-0860,Ring Binder,Office Supplies,Binders,2025-07-21,West,Haryana,Noida,Home Office,4,0.0,1875.93,293.77
+PROD-0861,Tablet,Technology,Computers,2025-01-07,Central,Uttar Pradesh,Ghaziabad,Consumer,2,0.0,9540.2,739.45
+PROD-0862,Wood Bookcase,Furniture,Bookcases,2025-11-18,Central,Rajasthan,Noida,Consumer,1,0.0,19841.15,5742.12
+PROD-0863,Cushion,Furniture,Furnishings,2025-08-16,Central,Gujarat,Chennai,Consumer,3,0.15,7788.52,586.74
+PROD-0864,Office Chair,Furniture,Chairs,2025-10-06,East,Uttar Pradesh,Mumbai,Corporate,5,0.15,2698.77,196.04
+PROD-0865,File Binder,Office Supplies,Binders,2025-12-02,Central,Tamil Nadu,Ghaziabad,Consumer,5,0.15,5763.23,1086.01
+PROD-0866,Dining Chair,Furniture,Chairs,2025-07-02,Central,Uttar Pradesh,Gurugram,Consumer,2,0.0,15450.06,2164.91
+PROD-0867,Cushion,Furniture,Furnishings,2025-06-21,South,Gujarat,Bengaluru,Consumer,3,0.05,17033.92,4422.27
+PROD-0868,Drawing Paper,Office Supplies,Art,2025-07-08,East,Maharashtra,Bengaluru,Consumer,5,0.0,20296.38,5017.55
+PROD-0869,Drawing Paper,Office Supplies,Art,2025-09-02,South,Maharashtra,Noida,Corporate,2,0.15,2962.13,729.9
+PROD-0870,Dining Table,Furniture,Tables,2025-06-30,West,Rajasthan,Ghaziabad,Home Office,6,0.15,12431.03,2360.06
+PROD-0871,Wall Clock,Furniture,Furnishings,2025-10-09,East,Haryana,Noida,Home Office,8,0.15,13537.87,2107.18
+PROD-0872,Office Copier,Technology,Copiers,2025-10-23,East,Uttar Pradesh,Bengaluru,Home Office,4,0.05,17621.87,2350.86
+PROD-0873,Ring Binder,Office Supplies,Binders,2025-01-31,East,Haryana,Mumbai,Consumer,6,0.05,9117.33,1071.2
+PROD-0874,Ergonomic Chair,Furniture,Chairs,2025-03-12,Central,Haryana,Bengaluru,Consumer,2,0.05,24056.99,3299.34
+PROD-0875,Business Phone,Technology,Phones,2025-10-25,Central,Maharashtra,Bengaluru,Consumer,2,0.2,11999.14,2568.96
+PROD-0876,Conference Table,Furniture,Tables,2025-01-07,East,Gujarat,Jaipur,Corporate,7,0.05,3870.47,615.67
+PROD-0877,Mouse,Technology,Accessories,2025-11-27,Central,Maharashtra,Chennai,Consumer,1,0.05,7276.21,449.31
+PROD-0878,Wall Clock,Furniture,Furnishings,2025-12-15,South,Karnataka,Ahmedabad,Consumer,8,0.1,13920.77,3505.37
+PROD-0879,Printer Paper,Office Supplies,Paper,2025-07-13,East,Haryana,Ghaziabad,Home Office,3,0.15,18616.9,3240.21
+PROD-0880,Printer,Technology,Machines,2025-12-21,East,Uttar Pradesh,Bengaluru,Home Office,8,0.15,12013.79,2622.51
+PROD-0881,File Binder,Office Supplies,Binders,2025-02-25,South,Uttar Pradesh,Mumbai,Corporate,2,0.2,2083.54,407.87
+PROD-0882,Office Chair,Furniture,Chairs,2025-04-19,East,Uttar Pradesh,Mumbai,Corporate,1,0.1,18949.56,1653.2
+PROD-0883,Ergonomic Chair,Furniture,Chairs,2025-09-05,Central,Rajasthan,Pune,Corporate,1,0.0,1344.02,384.22
+PROD-0884,Laptop,Technology,Computers,2025-07-20,Central,Maharashtra,Delhi,Home Office,6,0.0,24350.19,3234.42
+PROD-0885,Drawing Paper,Office Supplies,Art,2025-01-20,Central,Karnataka,Mumbai,Home Office,5,0.15,4156.39,246.2
+PROD-0886,Tablet,Technology,Computers,2025-03-24,South,Haryana,Delhi,Home Office,6,0.05,11269.88,1442.74
+PROD-0887,Laser Copier,Technology,Copiers,2025-04-17,West,Delhi,Delhi,Consumer,2,0.2,23956.69,3966.22
+PROD-0888,Address Labels,Office Supplies,Labels,2025-09-13,East,Delhi,Pune,Home Office,2,0.05,11451.98,3084.46
+PROD-0889,Storage Box,Office Supplies,Storage,2025-02-06,West,Gujarat,Jaipur,Home Office,3,0.15,17809.78,1733.13
+PROD-0890,Ergonomic Chair,Furniture,Chairs,2025-09-07,East,Tamil Nadu,Bengaluru,Home Office,1,0.1,9182.28,1241.55
+PROD-0891,Mouse,Technology,Accessories,2025-02-12,Central,Uttar Pradesh,Mumbai,Home Office,7,0.1,12722.67,3084.19
+PROD-0892,Smartphone,Technology,Phones,2025-02-23,Central,Karnataka,Ahmedabad,Corporate,5,0.2,9489.17,1137.33
+PROD-0893,Cordless Phone,Technology,Phones,2025-08-27,East,Delhi,Ahmedabad,Corporate,8,0.15,16115.74,1058.61
+PROD-0894,Wall Clock,Furniture,Furnishings,2025-02-03,West,Delhi,Pune,Corporate,6,0.2,8659.23,1188.56
+PROD-0895,Dining Table,Furniture,Tables,2025-03-16,West,Uttar Pradesh,Bengaluru,Corporate,4,0.0,8106.64,2407.29
+PROD-0896,Ring Binder,Office Supplies,Binders,2025-04-19,East,Delhi,Ghaziabad,Consumer,1,0.15,23823.23,2378.58
+PROD-0897,Sketch Pen,Office Supplies,Art,2025-06-02,South,Maharashtra,Delhi,Consumer,8,0.2,21801.53,1805.62
+PROD-0898,File Cabinet,Office Supplies,Storage,2025-03-26,East,Haryana,Bengaluru,Home Office,4,0.15,8829.52,1278.92
+PROD-0899,Laser Copier,Technology,Copiers,2025-10-15,South,Rajasthan,Delhi,Consumer,4,0.2,2083.55,340.25
+PROD-0900,File Binder,Office Supplies,Binders,2025-06-12,Central,Tamil Nadu,Ghaziabad,Home Office,2,0.15,19831.62,1950.35
+PROD-0901,Address Labels,Office Supplies,Labels,2025-01-19,East,Haryana,Mumbai,Corporate,4,0.05,18680.83,2751.53
+PROD-0902,Computer Table,Furniture,Tables,2025-10-23,South,Delhi,Jaipur,Home Office,1,0.1,9350.87,454.85
+PROD-0903,Marker Set,Office Supplies,Art,2025-06-30,South,Delhi,Ghaziabad,Corporate,6,0.15,20730.42,3185.72
+PROD-0904,Storage Box,Office Supplies,Storage,2025-10-11,West,Gujarat,Gurugram,Consumer,3,0.15,13637.66,1405.61
+PROD-0905,Office Chair,Furniture,Chairs,2025-11-29,Central,Tamil Nadu,Chennai,Home Office,1,0.15,15464.07,997.91
+PROD-0906,Office Bookcase,Furniture,Bookcases,2025-04-19,East,Tamil Nadu,Noida,Corporate,4,0.2,19455.47,2261.04
+PROD-0907,Drawing Paper,Office Supplies,Art,2025-12-27,South,Gujarat,Pune,Corporate,7,0.1,338.99,74.91
+PROD-0908,Ring Binder,Office Supplies,Binders,2025-08-01,South,Rajasthan,Ghaziabad,Home Office,1,0.05,535.92,126.07
+PROD-0909,Document Folder,Office Supplies,Binders,2025-07-20,West,Maharashtra,Ahmedabad,Home Office,4,0.15,15464.26,3379.97
+PROD-0910,Wall Clock,Furniture,Furnishings,2025-09-22,East,Delhi,Gurugram,Corporate,3,0.0,11019.43,2506.99
+PROD-0911,USB Hub,Technology,Accessories,2025-03-23,Central,Maharashtra,Delhi,Home Office,6,0.0,5213.5,294.09
+PROD-0912,Printer,Technology,Machines,2025-10-20,South,Maharashtra,Mumbai,Home Office,7,0.05,778.45,218.79
+PROD-0913,Wood Bookcase,Furniture,Bookcases,2025-10-02,Central,Gujarat,Noida,Consumer,4,0.15,18198.87,3752.76
+PROD-0914,Business Phone,Technology,Phones,2025-10-24,East,Gujarat,Pune,Consumer,2,0.2,2906.65,187.59
+PROD-0915,Dining Chair,Furniture,Chairs,2025-07-05,West,Delhi,Jaipur,Home Office,4,0.15,9861.39,2085.99
+PROD-0916,Computer Table,Furniture,Tables,2025-08-03,East,Gujarat,Delhi,Consumer,7,0.15,22259.38,4770.56
+PROD-0917,Fax Machine,Technology,Machines,2025-11-07,West,Uttar Pradesh,Ghaziabad,Home Office,1,0.1,3062.6,822.59
+PROD-0918,Keyboard,Technology,Accessories,2025-04-09,East,Karnataka,Bengaluru,Consumer,1,0.2,13468.46,1917.22
+PROD-0919,Dining Chair,Furniture,Chairs,2025-03-12,West,Karnataka,Noida,Corporate,4,0.05,2223.55,246.93
+PROD-0920,Fax Machine,Technology,Machines,2025-05-31,West,Karnataka,Pune,Consumer,8,0.15,18668.08,2523.24
+PROD-0921,Office Bookcase,Furniture,Bookcases,2025-02-22,West,Haryana,Jaipur,Corporate,5,0.05,4266.48,1169.09
+PROD-0922,Mouse,Technology,Accessories,2025-11-15,South,Rajasthan,Noida,Corporate,2,0.15,15241.3,1294.61
+PROD-0923,Ergonomic Chair,Furniture,Chairs,2025-05-10,Central,Delhi,Ghaziabad,Corporate,7,0.2,7442.82,822.06
+PROD-0924,File Binder,Office Supplies,Binders,2025-05-06,South,Delhi,Delhi,Corporate,2,0.1,5497.33,707.46
+PROD-0925,Business Phone,Technology,Phones,2025-06-18,Central,Haryana,Pune,Home Office,4,0.1,11714.61,2896.06
+PROD-0926,Conference Table,Furniture,Tables,2025-10-15,West,Haryana,Bengaluru,Corporate,5,0.0,17949.2,3472.94
+PROD-0927,Conference Table,Furniture,Tables,2025-09-10,Central,Tamil Nadu,Ghaziabad,Home Office,8,0.1,1312.78,183.5
+PROD-0928,File Labels,Office Supplies,Labels,2025-05-02,West,Gujarat,Ghaziabad,Corporate,1,0.2,7233.17,1718.54
+PROD-0929,Dining Chair,Furniture,Chairs,2025-11-27,West,Gujarat,Pune,Corporate,1,0.0,1875.93,482.98
+PROD-0930,Sketch Pen,Office Supplies,Art,2025-10-12,West,Tamil Nadu,Noida,Corporate,6,0.0,12421.39,1842.49
+PROD-0931,Smartphone,Technology,Phones,2025-04-25,South,Haryana,Mumbai,Consumer,1,0.05,20662.59,1497.41
+PROD-0932,Computer Table,Furniture,Tables,2025-07-08,Central,Delhi,Delhi,Corporate,1,0.0,23362.64,2684.88
+PROD-0933,Office Bookcase,Furniture,Bookcases,2025-12-19,West,Delhi,Ghaziabad,Corporate,7,0.05,6857.31,1831.96
+PROD-0934,Cushion,Furniture,Furnishings,2025-08-17,West,Gujarat,Bengaluru,Home Office,2,0.05,13115.83,2423.12
+PROD-0935,Ring Binder,Office Supplies,Binders,2025-05-16,East,Karnataka,Noida,Consumer,5,0.1,17827.83,3042.6
+PROD-0936,Copy Paper,Office Supplies,Paper,2025-01-07,Central,Rajasthan,Mumbai,Home Office,4,0.15,11783.54,971.35
+PROD-0937,Scanner,Technology,Machines,2025-06-09,East,Karnataka,Bengaluru,Corporate,8,0.2,16433.94,1004.64
+PROD-0938,Shipping Labels,Office Supplies,Labels,2025-04-14,South,Delhi,Ghaziabad,Corporate,7,0.1,4820.64,675.84
+PROD-0939,Office Chair,Furniture,Chairs,2025-01-09,West,Rajasthan,Pune,Consumer,8,0.0,4797.69,811.1
+PROD-0940,Cordless Phone,Technology,Phones,2025-08-09,South,Uttar Pradesh,Jaipur,Corporate,4,0.2,3892.91,491.17
+PROD-0941,Copy Paper,Office Supplies,Paper,2025-11-29,East,Haryana,Ghaziabad,Home Office,7,0.15,18340.24,1535.27
+PROD-0942,Shipping Labels,Office Supplies,Labels,2025-09-10,Central,Karnataka,Noida,Consumer,7,0.0,2863.24,605.82
+PROD-0943,Wood Bookcase,Furniture,Bookcases,2025-02-03,West,Haryana,Ahmedabad,Consumer,2,0.2,6995.17,1258.45
+PROD-0944,Office Bookcase,Furniture,Bookcases,2025-04-16,South,Uttar Pradesh,Noida,Consumer,3,0.1,19675.33,3704.91
+PROD-0945,Scanner,Technology,Machines,2025-06-06,South,Tamil Nadu,Ghaziabad,Consumer,4,0.0,4380.28,401.5
+PROD-0946,Color Copier,Technology,Copiers,2025-06-21,East,Uttar Pradesh,Gurugram,Corporate,1,0.1,4561.25,1109.67
+PROD-0947,Address Labels,Office Supplies,Labels,2025-09-08,South,Karnataka,Chennai,Home Office,4,0.0,11893.32,3029.6
+PROD-0948,Conference Table,Furniture,Tables,2025-02-21,South,Gujarat,Jaipur,Corporate,5,0.1,20126.73,2955.38
+PROD-0949,Sketch Pen,Office Supplies,Art,2025-06-30,West,Delhi,Pune,Home Office,5,0.2,17797.41,3468.81
+PROD-0950,Smartphone,Technology,Phones,2025-07-30,Central,Karnataka,Gurugram,Home Office,4,0.05,16535.27,2188.17
+PROD-0951,Color Copier,Technology,Copiers,2025-04-16,South,Tamil Nadu,Chennai,Consumer,2,0.15,4966.98,885.27
+PROD-0952,File Cabinet,Office Supplies,Storage,2025-07-20,Central,Rajasthan,Gurugram,Consumer,7,0.1,23639.87,2709.08
+PROD-0953,Drawing Paper,Office Supplies,Art,2025-06-27,East,Tamil Nadu,Ghaziabad,Home Office,5,0.0,2888.24,504.67
+PROD-0954,Shipping Labels,Office Supplies,Labels,2025-12-07,South,Uttar Pradesh,Jaipur,Consumer,3,0.1,7695.59,458.19
+PROD-0955,Storage Bookcase,Furniture,Bookcases,2025-03-05,Central,Uttar Pradesh,Pune,Consumer,1,0.0,12285.91,1936.02
+PROD-0956,Plastic Storage,Office Supplies,Storage,2025-12-07,East,Haryana,Gurugram,Consumer,3,0.1,23849.08,1838.64
+PROD-0957,Ring Binder,Office Supplies,Binders,2025-08-31,Central,Gujarat,Pune,Home Office,6,0.15,6330.9,837.54
+PROD-0958,Document Folder,Office Supplies,Binders,2025-08-12,East,Gujarat,Ghaziabad,Corporate,6,0.05,20138.85,4224.9
+PROD-0959,Laptop,Technology,Computers,2025-06-06,West,Haryana,Noida,Consumer,2,0.15,7538.75,1194.81
+PROD-0960,Office Copier,Technology,Copiers,2025-06-10,West,Tamil Nadu,Delhi,Home Office,6,0.15,11789.22,1669.85
+PROD-0961,Desk Lamp,Furniture,Furnishings,2025-03-13,East,Gujarat,Delhi,Corporate,5,0.2,19697.81,2805.78
+PROD-0962,Cushion,Furniture,Furnishings,2025-01-04,Central,Delhi,Delhi,Corporate,8,0.2,20215.9,2669.39
+PROD-0963,Cordless Phone,Technology,Phones,2025-11-01,South,Uttar Pradesh,Noida,Home Office,2,0.2,20575.21,2804.27
+PROD-0964,Fax Machine,Technology,Machines,2025-01-28,West,Maharashtra,Mumbai,Home Office,4,0.2,12979.16,2441.18
+PROD-0965,Laptop,Technology,Computers,2025-11-18,East,Delhi,Noida,Consumer,5,0.0,18020.68,4530.47
+PROD-0966,Ergonomic Chair,Furniture,Chairs,2025-02-19,West,Haryana,Delhi,Consumer,4,0.15,5226.7,249.52
+PROD-0967,Marker Set,Office Supplies,Art,2025-04-05,West,Delhi,Ahmedabad,Consumer,4,0.2,21066.76,1939.29
+PROD-0968,Smartphone,Technology,Phones,2025-03-14,West,Gujarat,Pune,Home Office,4,0.2,4393.77,351.81
+PROD-0969,Wall Clock,Furniture,Furnishings,2025-12-08,West,Maharashtra,Delhi,Corporate,5,0.0,9871.05,1638.5
+PROD-0970,Printer Paper,Office Supplies,Paper,2025-07-19,West,Uttar Pradesh,Bengaluru,Consumer,1,0.0,14576.37,3079.66
+PROD-0971,Marker Set,Office Supplies,Art,2025-01-05,West,Delhi,Ghaziabad,Home Office,3,0.2,9040.03,742.69
+PROD-0972,Storage Bookcase,Furniture,Bookcases,2025-10-16,South,Haryana,Noida,Home Office,6,0.05,11568.12,1314.21
+PROD-0973,Marker Set,Office Supplies,Art,2025-11-07,South,Maharashtra,Bengaluru,Home Office,3,0.2,14464.57,2821.74
+PROD-0974,USB Hub,Technology,Accessories,2025-11-13,East,Karnataka,Noida,Home Office,7,0.0,1829.11,481.07
+PROD-0975,Cushion,Furniture,Furnishings,2025-09-01,East,Haryana,Ahmedabad,Consumer,6,0.05,19033.75,1380.71
+PROD-0976,Wood Bookcase,Furniture,Bookcases,2025-01-20,Central,Maharashtra,Bengaluru,Consumer,2,0.1,11121.98,2018.31
+PROD-0977,Color Copier,Technology,Copiers,2025-03-10,South,Karnataka,Mumbai,Home Office,4,0.15,5013.59,679.2
+PROD-0978,Cushion,Furniture,Furnishings,2025-04-09,East,Uttar Pradesh,Bengaluru,Corporate,2,0.0,14615.38,1474.47
+PROD-0979,Printer,Technology,Machines,2025-06-24,East,Tamil Nadu,Chennai,Corporate,3,0.2,17106.68,2381.85
+PROD-0980,Shipping Labels,Office Supplies,Labels,2025-03-12,Central,Maharashtra,Chennai,Corporate,2,0.15,11056.12,2523.23
+PROD-0981,Dining Chair,Furniture,Chairs,2025-04-29,South,Gujarat,Ahmedabad,Home Office,1,0.1,15097.02,755.94
+PROD-0982,Copy Paper,Office Supplies,Paper,2025-05-28,South,Haryana,Gurugram,Consumer,2,0.05,13430.43,3359.41
+PROD-0983,Business Phone,Technology,Phones,2025-08-30,South,Karnataka,Bengaluru,Consumer,5,0.0,16382.82,2203.67
+PROD-0984,Computer Table,Furniture,Tables,2025-06-18,Central,Rajasthan,Noida,Corporate,1,0.0,6005.09,1509.77
+PROD-0985,Printer,Technology,Machines,2025-10-10,Central,Uttar Pradesh,Jaipur,Home Office,8,0.1,23673.03,4918.05
+PROD-0986,Office Bookcase,Furniture,Bookcases,2025-09-02,Central,Uttar Pradesh,Mumbai,Home Office,5,0.05,19571.31,1029.31
+PROD-0987,Office Copier,Technology,Copiers,2025-12-17,West,Maharashtra,Ahmedabad,Home Office,1,0.0,13879.52,2037.25
+PROD-0988,Address Labels,Office Supplies,Labels,2025-03-01,South,Rajasthan,Mumbai,Corporate,8,0.2,3082.12,728.94
+PROD-0989,Copy Paper,Office Supplies,Paper,2025-04-29,Central,Uttar Pradesh,Mumbai,Consumer,2,0.05,14777.14,2151.6
+PROD-0990,Office Chair,Furniture,Chairs,2025-08-13,East,Gujarat,Ghaziabad,Home Office,3,0.1,7172.51,887.06
+PROD-0991,Drawing Paper,Office Supplies,Art,2025-03-04,South,Karnataka,Jaipur,Home Office,2,0.2,2047.99,166.24
+PROD-0992,Plastic Storage,Office Supplies,Storage,2025-05-30,Central,Uttar Pradesh,Bengaluru,Corporate,4,0.1,13242.08,1545.92
+PROD-0993,Scanner,Technology,Machines,2025-05-24,East,Gujarat,Chennai,Consumer,2,0.05,5208.34,1288.22
+PROD-0994,Storage Bookcase,Furniture,Bookcases,2025-03-14,West,Delhi,Delhi,Corporate,1,0.15,24451.06,4416.0
+PROD-0995,Office Bookcase,Furniture,Bookcases,2025-10-29,West,Tamil Nadu,Delhi,Corporate,7,0.0,7615.26,494.46
+PROD-0996,Sketch Pen,Office Supplies,Art,2025-04-25,South,Uttar Pradesh,Chennai,Corporate,4,0.15,9576.28,1490.59
+PROD-0997,Office Bookcase,Furniture,Bookcases,2025-10-30,West,Haryana,Delhi,Consumer,4,0.1,18967.72,3951.01
+PROD-0998,Office Copier,Technology,Copiers,2025-12-14,South,Maharashtra,Ahmedabad,Corporate,5,0.2,21484.08,2850.95
+PROD-0999,Desktop Computer,Technology,Computers,2025-01-08,East,Gujarat,Bengaluru,Home Office,5,0.1,20019.78,1286.19
+PROD-1000,Printer Paper,Office Supplies,Paper,2025-05-21,Central,Delhi,Pune,Home Office,6,0.1,6828.37,1509.38

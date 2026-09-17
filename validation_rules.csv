@@ -1,0 +1,14 @@
+Validation Rule,Expected Condition
+Missing values,Every required field should contain a value.
+Duplicate rows,The same complete record should not appear more than once.
+Duplicate Product ID,Product ID should uniquely identify a record.
+Product ID format,Product ID should follow PROD-####.
+Order Date,Date must be valid and within 2025.
+Quantity,Quantity must be a positive whole number.
+Discount,Discount must be between 0 and 1.
+Sales,Sales must be greater than 0.
+Category,"Category must be Furniture, Office Supplies, or Technology."
+Sub-Category consistency,Sub-Category must belong to its Category.
+Region,"Region must be Central, East, South, or West."
+Segment,"Segment must be Consumer, Corporate, or Home Office."
+Product consistency,A Product Name should map consistently to Category/Sub-Category.
